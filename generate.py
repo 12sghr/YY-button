@@ -32,15 +32,23 @@ if new_voices_num != present_voices_num:
     html = '''\
 <html>
     <head>
-        <title>Autoplay-Plocy</title>
+        <meta charset="utf-8"/>
+        <title>わいわいボタン</title>
         <link rel="stylesheet" type="text/css" href="/index.css">
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
         <script src="/index.js"></script>
     </head>
 
     <body>
+        <h1 id="title">わいわいボタン</h1>
+        <p>ボタンを押すと対応したわいわいさんの声が流れます。</p>
+
 '''
     rear_html = '''\
+    <h1 id="history">更新履歴</h1>
+    <p>2019.8.22 公開</p>
+    <h1>ソース</h1>
+    <a href="#">GitHub</a>
     </body>
 </html>
 '''
