@@ -42,6 +42,9 @@ if new_voices_num != present_voices_num:
     <body>
         <h1 id="title">わいわいボタン</h1>
         <p>ボタンを押すと対応したわいわいさんの声が流れます。</p>
+        <a href="https://www.youtube.com/channel/UCSkLRGGIGKOtinamhcy_42g">YouTube</a>
+        <a href="https://twitter.com/ABCDYY">twitter</a>
+        <a href="https://www.instagram.com/waiwai_31yearsold/?hl=ja">Instagram</a>
 
 '''
     rear_html = '''\
