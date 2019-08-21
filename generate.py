@@ -6,7 +6,7 @@ import os
 new_voices = []
 present_voices = []
 
-for x in glob.glob("./voices/*"):
+for x in sorted(glob.glob("./voices/*")):
     print(x)
     new_voices.append(x)
 
