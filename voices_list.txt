@@ -1,0 +1,8 @@
+./voices/007.m4a
+./voices/006.m4a
+./voices/004.m4a
+./voices/005.m4a
+./voices/001.m4a
+./voices/002.m4a
+./voices/003.m4a
+./voices/008.m4a
