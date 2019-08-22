@@ -1,0 +1,61 @@
+html body{
+  height: 100vh;
+}
+
+body{
+  margin: 0px;
+}
+
+#all{
+  background-image: url('../images/othello.jpeg');
+  background-size: cover;
+  height: 100vh;
+}
+
+h1{
+  background-color: #F6F61A;
+  text-align:center;
+}
+
+p{
+  text-align: center;
+}
+
+a{
+  text-align: center;
+
+  color: #0909E5;
+  position: relative;
+  display: inline-block;
+  transition: .3s;
+  text-decoration: none;
+}
+
+a::after {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  content: '';
+  width: 0;
+  height: 3px;
+  background-color: #F6F61A;
+  transition: .3s;
+  transform: translateX(-50%);
+}
+
+a:hover::after{
+  width: 100%;
+}
+
+a:visited{
+  color : #0909E5;
+}
+
+.link{
+  text-align: center;
+}
+
+.mask{
+  height: 100%;
+  background: rgba(255,255,255,0.5);
+}

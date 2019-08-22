@@ -1,72 +1,42 @@
 #coding:utf-8
 import glob
+import json
 import os
 
 # 追記
 new_voices = []
 present_voices = []
 
-for x in sorted(glob.glob("./voices/*")):
-    print(x)
+for x in sorted(glob.glob("./public/voices/*")):
     new_voices.append(x)
 
-with open('./voices_list.txt','r') as f:
-    for row in f:
-        print(row)
-        present_voices.append(row)
+json_open = open('./public/voices_list.json','r')
+present_voices = json.load(json_open)
 
 new_voices_num = len(new_voices)
 present_voices_num = len(present_voices)
 
 if new_voices_num != present_voices_num:
     for i in range(new_voices_num - present_voices_num):
-        present_voices.append("")
+        present_voices.append("{'id': '', 'title': '', 'src': ''}")
 
     for i, elem in enumerate(new_voices):
         if present_voices[i] != elem:
             f = open('voices_new_list.txt','a')
             f.write(elem + '\n')
             f.close()
-    os.rename("voices_new_list.txt", "voices_list.txt")
+    os.rename('voices_new_list.txt', 'voices_list.txt')
 
-    html = '''\
-<html>
-    <head>
-        <meta charset="utf-8"/>
-        <title>わいわいボタン</title>
-        <link rel="stylesheet" type="text/css" href="/index.css">
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
-        <script src="/index.js"></script>
-    </head>
+    out_new_voices = []
+    for i in range(len(new_voices)):
+        out_new_voice = {}
+        out_new_voice['id'] = str(i)
+        out_new_voice['title'] = new_voices[i][16:-4]
+        out_new_voice['src'] = new_voices[i][8:]
+        out_new_voices.append(out_new_voice)
+    print(out_new_voices)
+    out_json_file = open('public/voices_list.json', 'w')
+    json.dump(out_new_voices, out_json_file, ensure_ascii=False, indent=2)
 
-    <body>
-        <h1 id="title">わいわいボタン</h1>
-        <p>ボタンを押すと対応したわいわいさんの声が流れます。</p>
-        <a href="https://www.youtube.com/channel/UCSkLRGGIGKOtinamhcy_42g">YouTube</a>
-        <a href="https://twitter.com/ABCDYY">twitter</a>
-        <a href="https://www.instagram.com/waiwai_31yearsold/?hl=ja">Instagram</a>
-
-'''
-    rear_html = '''\
-    <h1 id="history">更新履歴</h1>
-    <p>2019.8.22 公開</p>
-    <h1>ソース</h1>
-    <a href="#">GitHub</a>
-    </body>
-</html>
-'''
-
-
-
-    html_new_voices = []
-
-    for x in new_voices:
-        html_new_voices.append('''\
-        <button type='button' id='play'> %s </button>
-        <audio id='sound' preload="auto" src="%s" type="audio/mp3"></audio>
-''' % (x, x))
-
-    middle_html = ''.join(html_new_voices)
-    f = open('YY_button.html', 'w')
-    f.write(html + middle_html + rear_html + '\n')
-    f.close()
+else:
+    print('変更はありません')
