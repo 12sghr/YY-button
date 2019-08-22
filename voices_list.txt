@@ -1,9 +1,3 @@
-./public/voices/test.m4a
-./public/voices/test2.m4a
-./public/voices/test3.m4a
-./public/voices/test4.m4a
-./public/voices/test5.m4a
-./public/voices/test6.m4a
 ./public/voices/すごくなくても.m4a
 ./public/voices/ところで俺のオフィスの場所はどこなんだ.m4a
 ./public/voices/ようそこの若えの俺の言うことを聞いてくれ.m4a
