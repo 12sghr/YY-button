@@ -11,6 +11,14 @@ function playVoice(voiceData) {
   });
 };
 
+function getSliderValue() {
+  $("#volume").on("input", function() {
+    var volume = $(this).val()
+    $("#displayVolume").text(volume);
+    $("audio")[0].volume = volume.length == 1 ? "0.0" + volume : "0." + volume;
+  });
+}
+
 $(function(){
   $.getJSON("./voices_list.json", null, function(data) {
     console.log(data);
@@ -32,6 +40,8 @@ $(function(){
 
 $(function() {
   $(window).load(function(){
+    voice.volume = 0.5;
     playVoice(voice);
+    getSliderValue()
   });
 });
