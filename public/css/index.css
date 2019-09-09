@@ -9,7 +9,9 @@ body{
 #all{
   background-image: url('../images/othello.jpeg');
   background-size: cover;
+  background-attachment: fixed;
   height: 100vh;
+  min-height: 150vh;
 }
 
 h1{
