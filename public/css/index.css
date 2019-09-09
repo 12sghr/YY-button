@@ -24,7 +24,7 @@ p{
 a{
   text-align: center;
 
-  color: #0909E5;
+  color: black;
   position: relative;
   display: inline-block;
   transition: .3s;
@@ -48,7 +48,11 @@ a:hover::after{
 }
 
 a:visited{
-  color : #0909E5;
+  color : black;
+}
+
+button{
+  margin: 1.5px 2.5px;
 }
 
 .link{
