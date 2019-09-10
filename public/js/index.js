@@ -21,10 +21,8 @@ function getSliderValue() {
 
 $(function(){
   $.getJSON("./voices_list.json", null, function(data) {
-    console.log(data);
   })
   .success(function(data) {
-    console.log("Success");
     for(var i = 0; i < data.length; i++) {
       voiceList.push(data[i]);
       $("#buttons").append("<button type='button' class='play " + data[i].id + "'>" + data[i].title + "</button>");
@@ -34,7 +32,6 @@ $(function(){
     console.log("Error:" + textStatus);
   })
   .complete(function() {
-    console.log("Finished!");
   });
 });
 
