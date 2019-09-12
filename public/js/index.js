@@ -8,8 +8,23 @@ function playVoice(voiceData) {
     voiceData.src = voiceList[id].src;
     $("body").append(voiceData);
     voiceData.play();
+    checkRoop();
   });
 };
+
+function checkRoop() {
+  $("audio").on("ended", function() {
+    var isRoop = $("#roop").prop("checked");
+    console.log("end");
+    console.log(isRoop);
+    if (isRoop == true) {
+      this.play();
+    } else {
+      this.pause();
+      this.currentTime = 0;
+    }
+  });
+}
 
 function getSliderValue() {
   $("#volume").on("input", function() {

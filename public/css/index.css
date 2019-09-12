@@ -27,6 +27,11 @@ p{
   text-align: center;
 }
 
+#history p{
+  text-align: left;
+  margin-left: 20%;
+}
+
 a{
   text-align: center;
 
