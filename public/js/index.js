@@ -15,8 +15,6 @@ function playVoice(voiceData) {
 function checkRoop() {
   $("audio").on("ended", function() {
     var isRoop = $("#roop").prop("checked");
-    console.log("end");
-    console.log(isRoop);
     if (isRoop == true) {
       this.play();
     } else {
