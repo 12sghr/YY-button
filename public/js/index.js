@@ -1,4 +1,4 @@
-var voice = new Audio("/voices/ところで俺のオフィスの場所はどこなんだ.m4a");
+var voice = new Audio("");
 var voiceList = [];
 var id;
 
