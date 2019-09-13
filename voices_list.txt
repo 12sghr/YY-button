@@ -6,6 +6,7 @@
 ./public/voices/Ancestors/今日はこのぐらいにしといたらぁボケェ.m4a
 ./public/voices/Ancestors/大層なご身分なられましたね.m4a
 ./public/voices/Ancestors/猿発作.m4a
+./public/voices/Ancestors/組長はあなたたちに食べてなんて欲しくないんだからね.m4a
 ./public/voices/Ancestors/鬱陶しいなさっきから.m4a
 ./public/voices/Ancestors/鬱陶しいのぉ.m4a
 ./public/voices/Dawn of man/ダァノス001.m4a
@@ -63,6 +64,7 @@
 ./public/voices/フィル・ジョーンズ/逃げられると思ったかお前.m4a
 ./public/voices/マリオメーカー2/それでもな、おじさんはな、お前のこと好っきゃで.m4a
 ./public/voices/マリオメーカー2/ちょいジャンプちょいジャンプ大ジャ〜ン.m4a
+./public/voices/マリオメーカー2/スター.m4a
 ./public/voices/マリオメーカー2/ドイツ語.m4a
 ./public/voices/マリオメーカー2/ヒロシです.m4a
 ./public/voices/マリオメーカー2/フランス語.m4a
@@ -70,6 +72,7 @@
 ./public/voices/マリオメーカー2/朝鮮語002.m4a
 ./public/voices/マリオメーカー2/鬱陶しいわ.m4a
 ./public/voices/マリオメーカー2/ｲｯﾂﾐｰﾏｰﾘｵｰ.m4a
+./public/voices/マリオメーカー2/ﾍﾞｯﾍﾟｰﾍﾟﾍﾟﾍﾟﾍﾟｯﾍﾟｰｲｭﾝ.m4a
 ./public/voices/挨拶/すごくなくても.m4a
 ./public/voices/挨拶/フランス人とのハーフ.m4a
 ./public/voices/挨拶/ミニチュア.m4a

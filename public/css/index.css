@@ -11,7 +11,7 @@ body{
   background-size: cover;
   background-attachment: fixed;
   height: 100vh;
-  min-height: 150vh;
+  min-height: 300vh;
 }
 
 h1{
@@ -73,4 +73,10 @@ button{
 .mask{
   height: 100%;
   background: rgba(255,255,255,0.5);
+}
+
+.series{
+  padding-left: 5%;
+  font-weight: normal;
+  background-color: #F6F61A;
 }
