@@ -4,7 +4,6 @@ var voiceList = [];
 function playVoice(voiceData) {
   $(".play").click(function() {
     var id = $(this).attr('class').split(" ")[1];
-    console.log(voiceData);
     voiceData.src = voiceList[id].src;
     $("body").append(voiceData);
     voiceData.play();

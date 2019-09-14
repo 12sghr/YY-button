@@ -1,6 +1,7 @@
 ./public/voices/Ancestors/♪ご飯食べれへんバッバ.m4a
 ./public/voices/Ancestors/なによあーた.m4a
 ./public/voices/Ancestors/ふざけやがってこの野郎.m4a
+./public/voices/Ancestors/もういいです死んでください.m4a
 ./public/voices/Ancestors/ジッジ.m4a
 ./public/voices/Ancestors/ッキャッホゥッホゥ.m4a
 ./public/voices/Ancestors/今日はこのぐらいにしといたらぁボケェ.m4a
@@ -62,6 +63,7 @@
 ./public/voices/フィル・ジョーンズ/調子どうだ武器商人.m4a
 ./public/voices/フィル・ジョーンズ/車高の低さは知能の低さっつうんだぞ.m4a
 ./public/voices/フィル・ジョーンズ/逃げられると思ったかお前.m4a
+./public/voices/マリオメーカー2/きのことして腐って可燃ゴミで捨てられろ.m4a
 ./public/voices/マリオメーカー2/それでもな、おじさんはな、お前のこと好っきゃで.m4a
 ./public/voices/マリオメーカー2/ちょいジャンプちょいジャンプ大ジャ〜ン.m4a
 ./public/voices/マリオメーカー2/スター.m4a
