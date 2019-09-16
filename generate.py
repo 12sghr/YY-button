@@ -31,6 +31,7 @@ for i, x in enumerate(sorted(glob.glob("./public/voices/*/*"))):
     out_new_voice['title'] = x[16:-4].split('/')[1]
     out_new_voice['src'] = x[8:]
     out_new_voices[x[16:-4].split('/')[0]].append(out_new_voice)
+out_new_voices['Ancestors'][0]['nums'] = len(glob.glob("./public/voices/*/*"))
 out_json_file = open('public/voices_new_list.json', 'w')
 json.dump(out_new_voices, out_json_file, ensure_ascii=False, indent=2)
 os.rename('public/voices_new_list.json', 'public/voices_list.json')
