@@ -2,9 +2,10 @@ $(function() {
   var voice = new Audio("/voices/Ancestors/なによあーた.m4a");
   var voiceList = [];
   var seriesLength;
+  var isRand = false;
 
   function playVoice(voiceData, target) {
-    var id
+    var id;
 
     if(target == false) {
       id = Math.floor(Math.random() * (seriesLength) + 1);
@@ -15,22 +16,33 @@ $(function() {
     voiceData.src = voiceList[id].src;
     $("body").append(voiceData);
     voiceData.play();
-    checkRoop();
+    checkRoop(voiceData);
   };
 
   function random(voiceData) {
     $("#random").click(function() {
+      isRand = true;
       var target = false;
-      playVoice(voiceData, target)
+      playVoice(voiceData, target);
     });
   }
 
-  function checkRoop() {
+  function checkRoop(voiceData) {
     $("audio").on("ended", function() {
       var isRoop = $("#roop").prop("checked");
-      if (isRoop == true) {
+      if (isRand == true && isRoop == true) {
+        function playRandom() {
+          var id = Math.floor(Math.random() * (seriesLength) + 1);
+          voiceData.src = voiceList[id].src;
+          $("body").append(voiceData);
+          voiceData.play();
+        }
+        setTimeout(playRandom, 500);
+      } else if (isRoop == true) {
+        isRand = false;
         this.play();
       } else {
+        isRand = false;
         this.pause();
         this.currentTime = 0;
       }
