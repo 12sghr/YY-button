@@ -96,6 +96,10 @@ button{
   border-style: ridge;
 }
 
+.others{
+  text-align: center;
+}
+
 #fixedVolume{
   position: fixed;
   bottom: 10px;
