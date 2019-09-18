@@ -1,18 +1,11 @@
 $(function() {
-  var voice = new Audio("/voices/Ancestors/なによあーた.m4a");
+  var voice = new Audio("");
   var voiceList = [];
   var seriesLength;
   var isRand = false;
 
   function playVoice(voiceData, target) {
-    var id;
-
-    if(target == false) {
-      id = Math.floor(Math.random() * (seriesLength) + 1);
-    } else {
-      id = target.attr('class').split(" ")[1];
-    }
-
+    var id = target.attr('class').split(" ")[1];
     voiceData.src = voiceList[id].src;
     $("body").append(voiceData);
     voiceData.play();
@@ -21,28 +14,44 @@ $(function() {
 
   function random(voiceData) {
     $("#random").click(function() {
-      isRand = true;
-      var target = false;
-      playVoice(voiceData, target);
+      playRandom(voiceData);
+      checkRoop(voiceData);
     });
+  }
+
+  function randomRoop(voiceData) {
+    $("#roopStart").click(function() {
+      $(this).prop("disabled", true);
+      isRand = true;
+      playRandom(voiceData);
+      checkRoop(voiceData);
+    });
+
+    $("#roopStop").click(function() {
+      isRand = false;
+    });
+  }
+
+  function playRandom(voiceData) {
+    var id = Math.floor(Math.random() * (seriesLength) + 1);
+    voiceData.src = voiceList[id].src;
+    $("body").append(voiceData);
+    voiceData.play();
   }
 
   function checkRoop(voiceData) {
     $("audio").on("ended", function() {
       var isRoop = $("#roop").prop("checked");
-      if (isRand == true && isRoop == true) {
-        function playRandom() {
-          var id = Math.floor(Math.random() * (seriesLength) + 1);
-          voiceData.src = voiceList[id].src;
-          $("body").append(voiceData);
-          voiceData.play();
-        }
-        setTimeout(playRandom, 500);
+      if (isRand == true) {
+        setTimeout(playRandom, 500, voiceData);
       } else if (isRoop == true) {
-        isRand = false;
         this.play();
+      } else if (isRand == false) {
+        $("audio").remove();
+        $("#roopStart").prop("disabled", false);
+        this.pause();
+        this.currentTime = 0;
       } else {
-        isRand = false;
         this.pause();
         this.currentTime = 0;
       }
@@ -81,5 +90,6 @@ $(function() {
     });
     getSliderValue();
     random(voice);
+    randomRoop(voice);
   });
 });
