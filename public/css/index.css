@@ -85,6 +85,10 @@ button{
   background: rgba(255,255,255,0.5);
 }
 
+.support{
+  margin-top: 10px;
+}
+
 .series{
   padding-left: 5%;
   font-weight: normal;
