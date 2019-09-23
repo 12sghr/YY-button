@@ -4,7 +4,7 @@
       "id": "0",
       "title": "♪ご飯食べれへんバッバ",
       "src": "/voices/Ancestors/♪ご飯食べれへんバッバ.m4a",
-      "nums": 350
+      "nums": 574
     },
     {
       "id": "1",
@@ -127,1649 +127,2769 @@
   "Duck Season": [
     {
       "id": "24",
+      "title": "1ポイント",
+      "src": "/voices/Duck Season/1ポイント.m4a"
+    },
+    {
+      "id": "25",
+      "title": "2ポイント",
+      "src": "/voices/Duck Season/2ポイント.m4a"
+    },
+    {
+      "id": "26",
+      "title": "Duck Seasonです",
+      "src": "/voices/Duck Season/Duck Seasonです.m4a"
+    },
+    {
+      "id": "27",
+      "title": "Great001",
+      "src": "/voices/Duck Season/Great001.m4a"
+    },
+    {
+      "id": "28",
+      "title": "Great002",
+      "src": "/voices/Duck Season/Great002.m4a"
+    },
+    {
+      "id": "29",
+      "title": "New Arrivalきた",
+      "src": "/voices/Duck Season/New Arrivalきた.m4a"
+    },
+    {
+      "id": "30",
+      "title": "OKｲｪｲ",
+      "src": "/voices/Duck Season/OKｲｪｲ.m4a"
+    },
+    {
+      "id": "31",
+      "title": "Perfects",
+      "src": "/voices/Duck Season/Perfects.m4a"
+    },
+    {
+      "id": "32",
+      "title": "Smooth_Criminal",
+      "src": "/voices/Duck Season/Smooth_Criminal.m4a"
+    },
+    {
+      "id": "33",
+      "title": "Tonight",
+      "src": "/voices/Duck Season/Tonight.m4a"
+    },
+    {
+      "id": "34",
+      "title": "You_win",
+      "src": "/voices/Duck Season/You_win.m4a"
+    },
+    {
+      "id": "35",
+      "title": "dbaddaddadki",
+      "src": "/voices/Duck Season/dbaddaddadki.m4a"
+    },
+    {
+      "id": "36",
+      "title": "あっお母さんいるやん",
+      "src": "/voices/Duck Season/あっお母さんいるやん.m4a"
+    },
+    {
+      "id": "37",
+      "title": "ありがとうございます引退します",
+      "src": "/voices/Duck Season/ありがとうございます引退します.m4a"
+    },
+    {
+      "id": "38",
+      "title": "あれ、お母さん",
+      "src": "/voices/Duck Season/あれ、お母さん.m4a"
+    },
+    {
+      "id": "39",
+      "title": "いい天気だね",
+      "src": "/voices/Duck Season/いい天気だね.m4a"
+    },
+    {
+      "id": "40",
+      "title": "いやそうはならんやろ",
+      "src": "/voices/Duck Season/いやそうはならんやろ.m4a"
+    },
+    {
+      "id": "41",
+      "title": "うううううううううう",
+      "src": "/voices/Duck Season/うううううううううう.m4a"
+    },
+    {
+      "id": "42",
+      "title": "うせやん",
+      "src": "/voices/Duck Season/うせやん.m4a"
+    },
+    {
+      "id": "43",
+      "title": "うむ分かればいい",
+      "src": "/voices/Duck Season/うむ分かればいい.m4a"
+    },
+    {
+      "id": "44",
+      "title": "うーわ",
+      "src": "/voices/Duck Season/うーわ.m4a"
+    },
+    {
+      "id": "45",
+      "title": "うーわもう",
+      "src": "/voices/Duck Season/うーわもう.m4a"
+    },
+    {
+      "id": "46",
+      "title": "うーわ何これ",
+      "src": "/voices/Duck Season/うーわ何これ.m4a"
+    },
+    {
+      "id": "47",
+      "title": "うーわ虐殺されてるうちのクジラが",
+      "src": "/voices/Duck Season/うーわ虐殺されてるうちのクジラが.m4a"
+    },
+    {
+      "id": "48",
+      "title": "ぇっぇっぇっぇっぇっ",
+      "src": "/voices/Duck Season/ぇっぇっぇっぇっぇっ.m4a"
+    },
+    {
+      "id": "49",
+      "title": "えぇ",
+      "src": "/voices/Duck Season/えぇ.m4a"
+    },
+    {
+      "id": "50",
+      "title": "ええわかってへんやん何も",
+      "src": "/voices/Duck Season/ええわかってへんやん何も.m4a"
+    },
+    {
+      "id": "51",
+      "title": "えっ",
+      "src": "/voices/Duck Season/えっ.m4a"
+    },
+    {
+      "id": "52",
+      "title": "えっえっえっえっえっえっ",
+      "src": "/voices/Duck Season/えっえっえっえっえっえっ.m4a"
+    },
+    {
+      "id": "53",
+      "title": "えっえっなになに",
+      "src": "/voices/Duck Season/えっえっなになに.m4a"
+    },
+    {
+      "id": "54",
+      "title": "えっどうなる",
+      "src": "/voices/Duck Season/えっどうなる.m4a"
+    },
+    {
+      "id": "55",
+      "title": "えっ何してる",
+      "src": "/voices/Duck Season/えっ何してる.m4a"
+    },
+    {
+      "id": "56",
+      "title": "えなにその至近距離バイバイ",
+      "src": "/voices/Duck Season/えなにその至近距離バイバイ.m4a"
+    },
+    {
+      "id": "57",
+      "title": "えーえーえーえー",
+      "src": "/voices/Duck Season/えーえーえーえー.m4a"
+    },
+    {
+      "id": "58",
+      "title": "おう久しぶりやなお前な",
+      "src": "/voices/Duck Season/おう久しぶりやなお前な.m4a"
+    },
+    {
+      "id": "59",
+      "title": "おおいいね",
+      "src": "/voices/Duck Season/おおいいね.m4a"
+    },
+    {
+      "id": "60",
+      "title": "おかわり頂けただろうか",
+      "src": "/voices/Duck Season/おかわり頂けただろうか.m4a"
+    },
+    {
+      "id": "61",
+      "title": "おじさんを買いかぶりすぎちゃうか",
+      "src": "/voices/Duck Season/おじさんを買いかぶりすぎちゃうか.m4a"
+    },
+    {
+      "id": "62",
+      "title": "おっおっおっおっおっ",
+      "src": "/voices/Duck Season/おっおっおっおっおっ.m4a"
+    },
+    {
+      "id": "63",
+      "title": "おっきくなっちゃった",
+      "src": "/voices/Duck Season/おっきくなっちゃった.m4a"
+    },
+    {
+      "id": "64",
+      "title": "おっらぁ",
+      "src": "/voices/Duck Season/おっらぁ.m4a"
+    },
+    {
+      "id": "65",
+      "title": "お前かこの野郎うちのオカンやったのはお前か",
+      "src": "/voices/Duck Season/お前かこの野郎うちのオカンやったのはお前か.m4a"
+    },
+    {
+      "id": "66",
+      "title": "お前すごいなほんま",
+      "src": "/voices/Duck Season/お前すごいなほんま.m4a"
+    },
+    {
+      "id": "67",
+      "title": "お前というホームランボール場外にやってやらぁ",
+      "src": "/voices/Duck Season/お前というホームランボール場外にやってやらぁ.m4a"
+    },
+    {
+      "id": "68",
+      "title": "お母さん三角形ばっか食べたらアカンわ四角形も食べ",
+      "src": "/voices/Duck Season/お母さん三角形ばっか食べたらアカンわ四角形も食べ.m4a"
+    },
+    {
+      "id": "69",
+      "title": "お祝いをしよ",
+      "src": "/voices/Duck Season/お祝いをしよ.m4a"
+    },
+    {
+      "id": "70",
+      "title": "お見事100点満点です",
+      "src": "/voices/Duck Season/お見事100点満点です.m4a"
+    },
+    {
+      "id": "71",
+      "title": "お金払ってもそんな状況になりたくないという状況にいたな",
+      "src": "/voices/Duck Season/お金払ってもそんな状況になりたくないという状況にいたな.m4a"
+    },
+    {
+      "id": "72",
+      "title": "お願いしまーす",
+      "src": "/voices/Duck Season/お願いしまーす.m4a"
+    },
+    {
+      "id": "73",
+      "title": "お！？",
+      "src": "/voices/Duck Season/お！？.m4a"
+    },
+    {
+      "id": "74",
+      "title": "かっこええ今の",
+      "src": "/voices/Duck Season/かっこええ今の.m4a"
+    },
+    {
+      "id": "75",
+      "title": "かまってちゃんかお前は",
+      "src": "/voices/Duck Season/かまってちゃんかお前は.m4a"
+    },
+    {
+      "id": "76",
+      "title": "くしゃみ",
+      "src": "/voices/Duck Season/くしゃみ.m4a"
+    },
+    {
+      "id": "77",
+      "title": "くそこの野郎エイリアンめ",
+      "src": "/voices/Duck Season/くそこの野郎エイリアンめ.m4a"
+    },
+    {
+      "id": "78",
+      "title": "くちばしが黄色で顔が青で胸が赤色なーんだ",
+      "src": "/voices/Duck Season/くちばしが黄色で顔が青で胸が赤色なーんだ.m4a"
+    },
+    {
+      "id": "79",
+      "title": "これでお前オカン助かるんちゃうか",
+      "src": "/voices/Duck Season/これでお前オカン助かるんちゃうか.m4a"
+    },
+    {
+      "id": "80",
+      "title": "これで君も殺戮兵器さ",
+      "src": "/voices/Duck Season/これで君も殺戮兵器さ.m4a"
+    },
+    {
+      "id": "81",
+      "title": "これは閑静な住宅街で起こった物語である",
+      "src": "/voices/Duck Season/これは閑静な住宅街で起こった物語である.m4a"
+    },
+    {
+      "id": "82",
+      "title": "ごめん今寝ようとしてるからはよどっかいってごめんな",
+      "src": "/voices/Duck Season/ごめん今寝ようとしてるからはよどっかいってごめんな.m4a"
+    },
+    {
+      "id": "83",
+      "title": "ごめん意味わからん",
+      "src": "/voices/Duck Season/ごめん意味わからん.m4a"
+    },
+    {
+      "id": "84",
+      "title": "しかし彼はまだその考えが甘かったことを知る由もない",
+      "src": "/voices/Duck Season/しかし彼はまだその考えが甘かったことを知る由もない.m4a"
+    },
+    {
+      "id": "85",
+      "title": "そうそうたる面々や",
+      "src": "/voices/Duck Season/そうそうたる面々や.m4a"
+    },
+    {
+      "id": "86",
+      "title": "その時わいわいの頭に閃きの四文字がよぎる",
+      "src": "/voices/Duck Season/その時わいわいの頭に閃きの四文字がよぎる.m4a"
+    },
+    {
+      "id": "87",
+      "title": "それをおじさんに聞くのはやぶさかではないけども",
+      "src": "/voices/Duck Season/それをおじさんに聞くのはやぶさかではないけども.m4a"
+    },
+    {
+      "id": "88",
+      "title": "そんなことしたらアカンわ",
+      "src": "/voices/Duck Season/そんなことしたらアカンわ.m4a"
+    },
+    {
+      "id": "89",
+      "title": "そんなんゲームやねんし所詮こんなもん",
+      "src": "/voices/Duck Season/そんなんゲームやねんし所詮こんなもん.m4a"
+    },
+    {
+      "id": "90",
+      "title": "たこ焼き屋かお前の頭は",
+      "src": "/voices/Duck Season/たこ焼き屋かお前の頭は.m4a"
+    },
+    {
+      "id": "91",
+      "title": "だからもうええてお前はもう",
+      "src": "/voices/Duck Season/だからもうええてお前はもう.m4a"
+    },
+    {
+      "id": "92",
+      "title": "ちゃうわ001",
+      "src": "/voices/Duck Season/ちゃうわ001.m4a"
+    },
+    {
+      "id": "93",
+      "title": "ちゃうわ002",
+      "src": "/voices/Duck Season/ちゃうわ002.m4a"
+    },
+    {
+      "id": "94",
+      "title": "ちゃうわ003",
+      "src": "/voices/Duck Season/ちゃうわ003.m4a"
+    },
+    {
+      "id": "95",
+      "title": "ちょオカンオカンそっちいったぞオカン",
+      "src": "/voices/Duck Season/ちょオカンオカンそっちいったぞオカン.m4a"
+    },
+    {
+      "id": "96",
+      "title": "とにかく俺にできることは倒すことだけや",
+      "src": "/voices/Duck Season/とにかく俺にできることは倒すことだけや.m4a"
+    },
+    {
+      "id": "97",
+      "title": "どういう神経してんねん",
+      "src": "/voices/Duck Season/どういう神経してんねん.m4a"
+    },
+    {
+      "id": "98",
+      "title": "なんか言おう、な",
+      "src": "/voices/Duck Season/なんか言おう、な.m4a"
+    },
+    {
+      "id": "99",
+      "title": "なんか言われたな今",
+      "src": "/voices/Duck Season/なんか言われたな今.m4a"
+    },
+    {
+      "id": "100",
+      "title": "なんだ一体おい",
+      "src": "/voices/Duck Season/なんだ一体おい.m4a"
+    },
+    {
+      "id": "101",
+      "title": "なんてことすんねん",
+      "src": "/voices/Duck Season/なんてことすんねん.m4a"
+    },
+    {
+      "id": "102",
+      "title": "なんでやねんなんでやねん",
+      "src": "/voices/Duck Season/なんでやねんなんでやねん.m4a"
+    },
+    {
+      "id": "103",
+      "title": "なんも変わってへん",
+      "src": "/voices/Duck Season/なんも変わってへん.m4a"
+    },
+    {
+      "id": "104",
+      "title": "なんやなんやなんや",
+      "src": "/voices/Duck Season/なんやなんやなんや.m4a"
+    },
+    {
+      "id": "105",
+      "title": "なんやねんこれ",
+      "src": "/voices/Duck Season/なんやねんこれ.m4a"
+    },
+    {
+      "id": "106",
+      "title": "なんやねんちょこちょこ怖がらせるような真似しやがりくさって出てこいよ",
+      "src": "/voices/Duck Season/なんやねんちょこちょこ怖がらせるような真似しやがりくさって出てこいよ.m4a"
+    },
+    {
+      "id": "107",
+      "title": "はぁまた始まった",
+      "src": "/voices/Duck Season/はぁまた始まった.m4a"
+    },
+    {
+      "id": "108",
+      "title": "はい楽しかったですありがとうございました",
+      "src": "/voices/Duck Season/はい楽しかったですありがとうございました.m4a"
+    },
+    {
+      "id": "109",
+      "title": "はっきり喋れ",
+      "src": "/voices/Duck Season/はっきり喋れ.m4a"
+    },
+    {
+      "id": "110",
+      "title": "びっくり001",
+      "src": "/voices/Duck Season/びっくり001.m4a"
+    },
+    {
+      "id": "111",
+      "title": "びっくり002",
+      "src": "/voices/Duck Season/びっくり002.m4a"
+    },
+    {
+      "id": "112",
+      "title": "びっくり003",
+      "src": "/voices/Duck Season/びっくり003.m4a"
+    },
+    {
+      "id": "113",
+      "title": "びっくり004",
+      "src": "/voices/Duck Season/びっくり004.m4a"
+    },
+    {
+      "id": "114",
+      "title": "びっくり005",
+      "src": "/voices/Duck Season/びっくり005.m4a"
+    },
+    {
+      "id": "115",
+      "title": "びっくり006",
+      "src": "/voices/Duck Season/びっくり006.m4a"
+    },
+    {
+      "id": "116",
+      "title": "びっくり007",
+      "src": "/voices/Duck Season/びっくり007.m4a"
+    },
+    {
+      "id": "117",
+      "title": "びっくり008",
+      "src": "/voices/Duck Season/びっくり008.m4a"
+    },
+    {
+      "id": "118",
+      "title": "びっくり009",
+      "src": "/voices/Duck Season/びっくり009.m4a"
+    },
+    {
+      "id": "119",
+      "title": "びっくり010",
+      "src": "/voices/Duck Season/びっくり010.m4a"
+    },
+    {
+      "id": "120",
+      "title": "びっくり011",
+      "src": "/voices/Duck Season/びっくり011.m4a"
+    },
+    {
+      "id": "121",
+      "title": "びっくり012",
+      "src": "/voices/Duck Season/びっくり012.m4a"
+    },
+    {
+      "id": "122",
+      "title": "びっくり013",
+      "src": "/voices/Duck Season/びっくり013.m4a"
+    },
+    {
+      "id": "123",
+      "title": "びっくり014",
+      "src": "/voices/Duck Season/びっくり014.m4a"
+    },
+    {
+      "id": "124",
+      "title": "びっくり015",
+      "src": "/voices/Duck Season/びっくり015.m4a"
+    },
+    {
+      "id": "125",
+      "title": "びっくり016",
+      "src": "/voices/Duck Season/びっくり016.m4a"
+    },
+    {
+      "id": "126",
+      "title": "びっくり017",
+      "src": "/voices/Duck Season/びっくり017.m4a"
+    },
+    {
+      "id": "127",
+      "title": "びっくり018",
+      "src": "/voices/Duck Season/びっくり018.m4a"
+    },
+    {
+      "id": "128",
+      "title": "びっくり019",
+      "src": "/voices/Duck Season/びっくり019.m4a"
+    },
+    {
+      "id": "129",
+      "title": "びっくり020",
+      "src": "/voices/Duck Season/びっくり020.m4a"
+    },
+    {
+      "id": "130",
+      "title": "びっくり021",
+      "src": "/voices/Duck Season/びっくり021.m4a"
+    },
+    {
+      "id": "131",
+      "title": "びっくり022",
+      "src": "/voices/Duck Season/びっくり022.m4a"
+    },
+    {
+      "id": "132",
+      "title": "びっくり023",
+      "src": "/voices/Duck Season/びっくり023.m4a"
+    },
+    {
+      "id": "133",
+      "title": "ほぉ〜やってくれちゃうじゃない",
+      "src": "/voices/Duck Season/ほぉ〜やってくれちゃうじゃない.m4a"
+    },
+    {
+      "id": "134",
+      "title": "ほんまごめん",
+      "src": "/voices/Duck Season/ほんまごめん.m4a"
+    },
+    {
+      "id": "135",
+      "title": "みんな一緒に踊ろうよ僕と",
+      "src": "/voices/Duck Season/みんな一緒に踊ろうよ僕と.m4a"
+    },
+    {
+      "id": "136",
+      "title": "めっちゃドキドキしてる",
+      "src": "/voices/Duck Season/めっちゃドキドキしてる.m4a"
+    },
+    {
+      "id": "137",
+      "title": "もうええてせやから",
+      "src": "/voices/Duck Season/もうええてせやから.m4a"
+    },
+    {
+      "id": "138",
+      "title": "もうええてそういうのされたら振り向けへんやんもう",
+      "src": "/voices/Duck Season/もうええてそういうのされたら振り向けへんやんもう.m4a"
+    },
+    {
+      "id": "139",
+      "title": "もーうええて",
+      "src": "/voices/Duck Season/もーうええて.m4a"
+    },
+    {
+      "id": "140",
+      "title": "やあ！おらどや",
+      "src": "/voices/Duck Season/やあ！おらどや.m4a"
+    },
+    {
+      "id": "141",
+      "title": "やったねベイビー",
+      "src": "/voices/Duck Season/やったねベイビー.m4a"
+    },
+    {
+      "id": "142",
+      "title": "やったやったよｲｪｲ",
+      "src": "/voices/Duck Season/やったやったよｲｪｲ.m4a"
+    },
+    {
+      "id": "143",
+      "title": "やっと期待感が持てる",
+      "src": "/voices/Duck Season/やっと期待感が持てる.m4a"
+    },
+    {
+      "id": "144",
+      "title": "やっぱり",
+      "src": "/voices/Duck Season/やっぱり.m4a"
+    },
+    {
+      "id": "145",
+      "title": "やりゃあいいんやろ",
+      "src": "/voices/Duck Season/やりゃあいいんやろ.m4a"
+    },
+    {
+      "id": "146",
+      "title": "やんのかてめぇよくここまでついてきたな",
+      "src": "/voices/Duck Season/やんのかてめぇよくここまでついてきたな.m4a"
+    },
+    {
+      "id": "147",
+      "title": "よくやったな",
+      "src": "/voices/Duck Season/よくやったな.m4a"
+    },
+    {
+      "id": "148",
+      "title": "よしかかってきな",
+      "src": "/voices/Duck Season/よしかかってきな.m4a"
+    },
+    {
+      "id": "149",
+      "title": "よしじゃあ後は頼んだ",
+      "src": "/voices/Duck Season/よしじゃあ後は頼んだ.m4a"
+    },
+    {
+      "id": "150",
+      "title": "よっしゃあ",
+      "src": "/voices/Duck Season/よっしゃあ.m4a"
+    },
+    {
+      "id": "151",
+      "title": "よーしお前との勝負よ",
+      "src": "/voices/Duck Season/よーしお前との勝負よ.m4a"
+    },
+    {
+      "id": "152",
+      "title": "よーしかかってこいよ",
+      "src": "/voices/Duck Season/よーしかかってこいよ.m4a"
+    },
+    {
+      "id": "153",
+      "title": "ん！？なんや",
+      "src": "/voices/Duck Season/ん！？なんや.m4a"
+    },
+    {
+      "id": "154",
+      "title": "アカンうーわ",
+      "src": "/voices/Duck Season/アカンうーわ.m4a"
+    },
+    {
+      "id": "155",
+      "title": "アカンもう全然わからへん",
+      "src": "/voices/Duck Season/アカンもう全然わからへん.m4a"
+    },
+    {
+      "id": "156",
+      "title": "アンコール",
+      "src": "/voices/Duck Season/アンコール.m4a"
+    },
+    {
+      "id": "157",
+      "title": "オカンえっオカン",
+      "src": "/voices/Duck Season/オカンえっオカン.m4a"
+    },
+    {
+      "id": "158",
+      "title": "オカンや",
+      "src": "/voices/Duck Season/オカンや.m4a"
+    },
+    {
+      "id": "159",
+      "title": "オカン助かる？うちのオカン喘息持ちやけど",
+      "src": "/voices/Duck Season/オカン助かる？うちのオカン喘息持ちやけど.m4a"
+    },
+    {
+      "id": "160",
+      "title": "オカン待ってろよオカン絶対助けてやるからな",
+      "src": "/voices/Duck Season/オカン待ってろよオカン絶対助けてやるからな.m4a"
+    },
+    {
+      "id": "161",
+      "title": "ケツえぐない",
+      "src": "/voices/Duck Season/ケツえぐない.m4a"
+    },
+    {
+      "id": "162",
+      "title": "シュゥゥゥゥゥゥ",
+      "src": "/voices/Duck Season/シュゥゥゥゥゥゥ.m4a"
+    },
+    {
+      "id": "163",
+      "title": "スネイプ先生001",
+      "src": "/voices/Duck Season/スネイプ先生001.m4a"
+    },
+    {
+      "id": "164",
+      "title": "スネイプ先生002",
+      "src": "/voices/Duck Season/スネイプ先生002.m4a"
+    },
+    {
+      "id": "165",
+      "title": "ダンス001",
+      "src": "/voices/Duck Season/ダンス001.m4a"
+    },
+    {
+      "id": "166",
+      "title": "ダンス002",
+      "src": "/voices/Duck Season/ダンス002.m4a"
+    },
+    {
+      "id": "167",
+      "title": "トリプルトラ001",
+      "src": "/voices/Duck Season/トリプルトラ001.m4a"
+    },
+    {
+      "id": "168",
+      "title": "トリプルトラ002",
+      "src": "/voices/Duck Season/トリプルトラ002.m4a"
+    },
+    {
+      "id": "169",
+      "title": "ニュース001",
+      "src": "/voices/Duck Season/ニュース001.m4a"
+    },
+    {
+      "id": "170",
+      "title": "ニュース002",
+      "src": "/voices/Duck Season/ニュース002.m4a"
+    },
+    {
+      "id": "171",
+      "title": "ビデオ001",
+      "src": "/voices/Duck Season/ビデオ001.m4a"
+    },
+    {
+      "id": "172",
+      "title": "ビデオ002",
+      "src": "/voices/Duck Season/ビデオ002.m4a"
+    },
+    {
+      "id": "173",
+      "title": "ビデオ003",
+      "src": "/voices/Duck Season/ビデオ003.m4a"
+    },
+    {
+      "id": "174",
+      "title": "マリオ",
+      "src": "/voices/Duck Season/マリオ.m4a"
+    },
+    {
+      "id": "175",
+      "title": "下ネタ三角形さ",
+      "src": "/voices/Duck Season/下ネタ三角形さ.m4a"
+    },
+    {
+      "id": "176",
+      "title": "人生幸せやろな",
+      "src": "/voices/Duck Season/人生幸せやろな.m4a"
+    },
+    {
+      "id": "177",
+      "title": "今すぐ来てほしいんすよ",
+      "src": "/voices/Duck Season/今すぐ来てほしいんすよ.m4a"
+    },
+    {
+      "id": "178",
+      "title": "何すか何すかえっ",
+      "src": "/voices/Duck Season/何すか何すかえっ.m4a"
+    },
+    {
+      "id": "179",
+      "title": "何の謎も解決できへんかった",
+      "src": "/voices/Duck Season/何の謎も解決できへんかった.m4a"
+    },
+    {
+      "id": "180",
+      "title": "何やねん急に",
+      "src": "/voices/Duck Season/何やねん急に.m4a"
+    },
+    {
+      "id": "181",
+      "title": "何事にも全力全霊かお前は",
+      "src": "/voices/Duck Season/何事にも全力全霊かお前は.m4a"
+    },
+    {
+      "id": "182",
+      "title": "俺オリンピック出れるんちゃう",
+      "src": "/voices/Duck Season/俺オリンピック出れるんちゃう.m4a"
+    },
+    {
+      "id": "183",
+      "title": "僕たちが明日の未来をつくるんだから",
+      "src": "/voices/Duck Season/僕たちが明日の未来をつくるんだから.m4a"
+    },
+    {
+      "id": "184",
+      "title": "僕と人生一緒に歩んでください",
+      "src": "/voices/Duck Season/僕と人生一緒に歩んでください.m4a"
+    },
+    {
+      "id": "185",
+      "title": "全員始末したらぁ",
+      "src": "/voices/Duck Season/全員始末したらぁ.m4a"
+    },
+    {
+      "id": "186",
+      "title": "全然受け身とれへんねんこっち",
+      "src": "/voices/Duck Season/全然受け身とれへんねんこっち.m4a"
+    },
+    {
+      "id": "187",
+      "title": "劇001",
+      "src": "/voices/Duck Season/劇001.m4a"
+    },
+    {
+      "id": "188",
+      "title": "劇002",
+      "src": "/voices/Duck Season/劇002.m4a"
+    },
+    {
+      "id": "189",
+      "title": "劇003",
+      "src": "/voices/Duck Season/劇003.m4a"
+    },
+    {
+      "id": "190",
+      "title": "勘弁してほしいほんま",
+      "src": "/voices/Duck Season/勘弁してほしいほんま.m4a"
+    },
+    {
+      "id": "191",
+      "title": "右目腫れすぎてマタドガスみたいになってたらどうしょう",
+      "src": "/voices/Duck Season/右目腫れすぎてマタドガスみたいになってたらどうしょう.m4a"
+    },
+    {
+      "id": "192",
+      "title": "太陽に吠えろ",
+      "src": "/voices/Duck Season/太陽に吠えろ.m4a"
+    },
+    {
+      "id": "193",
+      "title": "子供部屋に入ってくるオカンみたいに問答無用で入ってきよるから",
+      "src": "/voices/Duck Season/子供部屋に入ってくるオカンみたいに問答無用で入ってきよるから.m4a"
+    },
+    {
+      "id": "194",
+      "title": "守るべきものがある戦いはおじさんちっと強いぞ",
+      "src": "/voices/Duck Season/守るべきものがある戦いはおじさんちっと強いぞ.m4a"
+    },
+    {
+      "id": "195",
+      "title": "小さめのマンホールか",
+      "src": "/voices/Duck Season/小さめのマンホールか.m4a"
+    },
+    {
+      "id": "196",
+      "title": "弟者",
+      "src": "/voices/Duck Season/弟者.m4a"
+    },
+    {
+      "id": "197",
+      "title": "後頭部がエイリアンみたいな突起してる",
+      "src": "/voices/Duck Season/後頭部がエイリアンみたいな突起してる.m4a"
+    },
+    {
+      "id": "198",
+      "title": "怖いとにかく",
+      "src": "/voices/Duck Season/怖いとにかく.m4a"
+    },
+    {
+      "id": "199",
+      "title": "怖っ",
+      "src": "/voices/Duck Season/怖っ.m4a"
+    },
+    {
+      "id": "200",
+      "title": "思ってるよりも超大作やった",
+      "src": "/voices/Duck Season/思ってるよりも超大作やった.m4a"
+    },
+    {
+      "id": "201",
+      "title": "思ってるよりバイオレンスやった",
+      "src": "/voices/Duck Season/思ってるよりバイオレンスやった.m4a"
+    },
+    {
+      "id": "202",
+      "title": "恐怖の始まりなのである",
+      "src": "/voices/Duck Season/恐怖の始まりなのである.m4a"
+    },
+    {
+      "id": "203",
+      "title": "戻ってしもうた",
+      "src": "/voices/Duck Season/戻ってしもうた.m4a"
+    },
+    {
+      "id": "204",
+      "title": "撃ち殺したれ",
+      "src": "/voices/Duck Season/撃ち殺したれ.m4a"
+    },
+    {
+      "id": "205",
+      "title": "森のくまさん",
+      "src": "/voices/Duck Season/森のくまさん.m4a"
+    },
+    {
+      "id": "206",
+      "title": "楽しいこれ",
+      "src": "/voices/Duck Season/楽しいこれ.m4a"
+    },
+    {
+      "id": "207",
+      "title": "歯茎の幅の方が歯の幅よりも長いもの",
+      "src": "/voices/Duck Season/歯茎の幅の方が歯の幅よりも長いもの.m4a"
+    },
+    {
+      "id": "208",
+      "title": "殴られたいんかお前は",
+      "src": "/voices/Duck Season/殴られたいんかお前は.m4a"
+    },
+    {
+      "id": "209",
+      "title": "海外旅行でも行くんか",
+      "src": "/voices/Duck Season/海外旅行でも行くんか.m4a"
+    },
+    {
+      "id": "210",
+      "title": "猟奇的やねｳﾜｧｰ猟奇的や",
+      "src": "/voices/Duck Season/猟奇的やねｳﾜｧｰ猟奇的や.m4a"
+    },
+    {
+      "id": "211",
+      "title": "真相は藪の中やけど",
+      "src": "/voices/Duck Season/真相は藪の中やけど.m4a"
+    },
+    {
+      "id": "212",
+      "title": "納得がいかねえ",
+      "src": "/voices/Duck Season/納得がいかねえ.m4a"
+    },
+    {
+      "id": "213",
+      "title": "終わんねえんだけど",
+      "src": "/voices/Duck Season/終わんねえんだけど.m4a"
+    },
+    {
+      "id": "214",
+      "title": "結婚してくださいお願いします",
+      "src": "/voices/Duck Season/結婚してくださいお願いします.m4a"
+    },
+    {
+      "id": "215",
+      "title": "絶対返品しよ",
+      "src": "/voices/Duck Season/絶対返品しよ.m4a"
+    },
+    {
+      "id": "216",
+      "title": "美術的やね",
+      "src": "/voices/Duck Season/美術的やね.m4a"
+    },
+    {
+      "id": "217",
+      "title": "考えすぎかなさすがに",
+      "src": "/voices/Duck Season/考えすぎかなさすがに.m4a"
+    },
+    {
+      "id": "218",
+      "title": "見れへんのかーい",
+      "src": "/voices/Duck Season/見れへんのかーい.m4a"
+    },
+    {
+      "id": "219",
+      "title": "言ってること矛盾してるね",
+      "src": "/voices/Duck Season/言ってること矛盾してるね.m4a"
+    },
+    {
+      "id": "220",
+      "title": "難儀や",
+      "src": "/voices/Duck Season/難儀や.m4a"
+    },
+    {
+      "id": "221",
       "title": "ｲｪﾛｩﾄﾞｯﾁｯﾐｯﾁﾈﾅﾛﾊﾟｧﾝﾃﾞｪｽ001",
       "src": "/voices/Duck Season/ｲｪﾛｩﾄﾞｯﾁｯﾐｯﾁﾈﾅﾛﾊﾟｧﾝﾃﾞｪｽ001.m4a"
     },
     {
-      "id": "25",
+      "id": "222",
       "title": "ｲｪﾛｩﾄﾞｯﾁｯﾐｯﾁﾈﾅﾛﾊﾟｧﾝﾃﾞｪｽ002",
       "src": "/voices/Duck Season/ｲｪﾛｩﾄﾞｯﾁｯﾐｯﾁﾈﾅﾛﾊﾟｧﾝﾃﾞｪｽ002.m4a"
     },
     {
-      "id": "26",
+      "id": "223",
       "title": "ｲｪﾛｩﾄﾞｯﾁｯﾐｯﾁﾈﾅﾛﾊﾟｧﾝﾃﾞｪｽ003",
       "src": "/voices/Duck Season/ｲｪﾛｩﾄﾞｯﾁｯﾐｯﾁﾈﾅﾛﾊﾟｧﾝﾃﾞｪｽ003.m4a"
     },
     {
-      "id": "27",
+      "id": "224",
       "title": "ｲｪﾛｩﾄﾞｯﾁｯﾐｯﾁﾈﾅﾛﾊﾟｧﾝﾃﾞｪｽ004",
       "src": "/voices/Duck Season/ｲｪﾛｩﾄﾞｯﾁｯﾐｯﾁﾈﾅﾛﾊﾟｧﾝﾃﾞｪｽ004.m4a"
     },
     {
-      "id": "28",
+      "id": "225",
+      "title": "ｲｪﾛｩﾄﾞｯﾁｯﾐｯﾁﾈﾅﾛﾊﾟｧﾝﾃﾞｪｽ005",
+      "src": "/voices/Duck Season/ｲｪﾛｩﾄﾞｯﾁｯﾐｯﾁﾈﾅﾛﾊﾟｧﾝﾃﾞｪｽ005.m4a"
+    },
+    {
+      "id": "226",
+      "title": "ｲｪﾛｩﾄﾞｯﾁｯﾐｯﾁﾈﾅﾛﾊﾟｧﾝﾃﾞｪｽ006",
+      "src": "/voices/Duck Season/ｲｪﾛｩﾄﾞｯﾁｯﾐｯﾁﾈﾅﾛﾊﾟｧﾝﾃﾞｪｽ006.m4a"
+    },
+    {
+      "id": "227",
+      "title": "ｲｪﾛｩﾄﾞｯﾁｯﾐｯﾁﾈﾅﾛﾊﾟｧﾝﾃﾞｪｽ007",
+      "src": "/voices/Duck Season/ｲｪﾛｩﾄﾞｯﾁｯﾐｯﾁﾈﾅﾛﾊﾟｧﾝﾃﾞｪｽ007.m4a"
+    },
+    {
+      "id": "228",
+      "title": "ｳﾜｰものすご眼球くりっくりやね",
+      "src": "/voices/Duck Season/ｳﾜｰものすご眼球くりっくりやね.m4a"
+    },
+    {
+      "id": "229",
+      "title": "ﾅﾎｰ",
+      "src": "/voices/Duck Season/ﾅﾎｰ.m4a"
+    },
+    {
+      "id": "230",
       "title": "ﾅﾛﾊﾟｧﾝﾃﾞｪｽ001",
       "src": "/voices/Duck Season/ﾅﾛﾊﾟｧﾝﾃﾞｪｽ001.m4a"
+    },
+    {
+      "id": "231",
+      "title": "ﾅﾛﾊﾟｧﾝﾃﾞｪｽ002",
+      "src": "/voices/Duck Season/ﾅﾛﾊﾟｧﾝﾃﾞｪｽ002.m4a"
+    },
+    {
+      "id": "232",
+      "title": "ﾅﾛﾊﾟｧﾝﾃﾞｪｽ003",
+      "src": "/voices/Duck Season/ﾅﾛﾊﾟｧﾝﾃﾞｪｽ003.m4a"
+    },
+    {
+      "id": "233",
+      "title": "ﾅﾛﾊﾟｧﾝﾃﾞｪｽ004",
+      "src": "/voices/Duck Season/ﾅﾛﾊﾟｧﾝﾃﾞｪｽ004.m4a"
+    },
+    {
+      "id": "234",
+      "title": "ﾅﾛﾊﾟｧﾝﾃﾞｪｽ005",
+      "src": "/voices/Duck Season/ﾅﾛﾊﾟｧﾝﾃﾞｪｽ005.m4a"
+    },
+    {
+      "id": "235",
+      "title": "ﾅﾛﾊﾟｧﾝﾃﾞｪｽ006",
+      "src": "/voices/Duck Season/ﾅﾛﾊﾟｧﾝﾃﾞｪｽ006.m4a"
+    },
+    {
+      "id": "236",
+      "title": "ﾅﾛﾊﾟｧﾝﾃﾞｪｽ007",
+      "src": "/voices/Duck Season/ﾅﾛﾊﾟｧﾝﾃﾞｪｽ007.m4a"
+    },
+    {
+      "id": "237",
+      "title": "ﾅﾛﾊﾟｧﾝﾃﾞｪｽ008",
+      "src": "/voices/Duck Season/ﾅﾛﾊﾟｧﾝﾃﾞｪｽ008.m4a"
+    },
+    {
+      "id": "238",
+      "title": "ﾊﾑﾀﾛﾅﾉﾀﾞ",
+      "src": "/voices/Duck Season/ﾊﾑﾀﾛﾅﾉﾀﾞ.m4a"
+    },
+    {
+      "id": "239",
+      "title": "ﾍﾞﾀﾍﾞﾀｱﾜﾄﾓﾌﾓﾌｱﾜｧ",
+      "src": "/voices/Duck Season/ﾍﾞﾀﾍﾞﾀｱﾜﾄﾓﾌﾓﾌｱﾜｧ.m4a"
     }
   ],
   "Handy": [
     {
-      "id": "29",
+      "id": "240",
       "title": "OK死ね",
       "src": "/voices/Handy/OK死ね.m4a"
     },
     {
-      "id": "30",
+      "id": "241",
       "title": "♪おててのおじさん001",
       "src": "/voices/Handy/♪おててのおじさん001.m4a"
     },
     {
-      "id": "31",
+      "id": "242",
       "title": "♪おててのおじさん002",
       "src": "/voices/Handy/♪おててのおじさん002.m4a"
     },
     {
-      "id": "32",
+      "id": "243",
       "title": "♪おててのおじさん003",
       "src": "/voices/Handy/♪おててのおじさん003.m4a"
     },
     {
-      "id": "33",
+      "id": "244",
       "title": "♪おててのおじさん004",
       "src": "/voices/Handy/♪おててのおじさん004.m4a"
     },
     {
-      "id": "34",
+      "id": "245",
       "title": "♪おててのおじさん005",
       "src": "/voices/Handy/♪おててのおじさん005.m4a"
     },
     {
-      "id": "35",
+      "id": "246",
       "title": "♪おててのおじさん006",
       "src": "/voices/Handy/♪おててのおじさん006.m4a"
     },
     {
-      "id": "36",
+      "id": "247",
       "title": "♪おてて燃えてもうええて",
       "src": "/voices/Handy/♪おてて燃えてもうええて.m4a"
     },
     {
-      "id": "37",
+      "id": "248",
       "title": "あかんもうBANGBANGBANGの指なった",
       "src": "/voices/Handy/あかんもうBANGBANGBANGの指なった.m4a"
     },
     {
-      "id": "38",
+      "id": "249",
       "title": "あんなにがんばったのに",
       "src": "/voices/Handy/あんなにがんばったのに.m4a"
     },
     {
-      "id": "39",
+      "id": "250",
       "title": "あんまおててのおじさんをなめちゃいけないよ",
       "src": "/voices/Handy/あんまおててのおじさんをなめちゃいけないよ.m4a"
     },
     {
-      "id": "40",
+      "id": "251",
       "title": "いいね",
       "src": "/voices/Handy/いいね.m4a"
     },
     {
-      "id": "41",
+      "id": "252",
       "title": "いやもう画面！",
       "src": "/voices/Handy/いやもう画面！.m4a"
     },
     {
-      "id": "42",
+      "id": "253",
       "title": "いや画面が見にくすぎますて",
       "src": "/voices/Handy/いや画面が見にくすぎますて.m4a"
     },
     {
-      "id": "43",
+      "id": "254",
       "title": "うーわ最悪や",
       "src": "/voices/Handy/うーわ最悪や.m4a"
     },
     {
-      "id": "44",
+      "id": "255",
       "title": "えっっ",
       "src": "/voices/Handy/えっっ.m4a"
     },
     {
-      "id": "45",
+      "id": "256",
       "title": "おててのおじさんきたよ",
       "src": "/voices/Handy/おててのおじさんきたよ.m4a"
     },
     {
-      "id": "46",
+      "id": "257",
       "title": "おててのおじさんだぞ〜いよぉ〜い",
       "src": "/voices/Handy/おててのおじさんだぞ〜いよぉ〜い.m4a"
     },
     {
-      "id": "47",
+      "id": "258",
       "title": "おててのおじさんと子供001",
       "src": "/voices/Handy/おててのおじさんと子供001.m4a"
     },
     {
-      "id": "48",
+      "id": "259",
       "title": "おててのおじさんと子供002",
       "src": "/voices/Handy/おててのおじさんと子供002.m4a"
     },
     {
-      "id": "49",
+      "id": "260",
       "title": "おててのおじさんと子供003",
       "src": "/voices/Handy/おててのおじさんと子供003.m4a"
     },
     {
-      "id": "50",
+      "id": "261",
       "title": "おててのおじさんと子供004",
       "src": "/voices/Handy/おててのおじさんと子供004.m4a"
     },
     {
-      "id": "51",
+      "id": "262",
       "title": "おててのおじさんの勝ち〜",
       "src": "/voices/Handy/おててのおじさんの勝ち〜.m4a"
     },
     {
-      "id": "52",
+      "id": "263",
       "title": "おててのおじさんやったね〜",
       "src": "/voices/Handy/おててのおじさんやったね〜.m4a"
     },
     {
-      "id": "53",
+      "id": "264",
       "title": "おててのおじさんコール",
       "src": "/voices/Handy/おててのおじさんコール.m4a"
     },
     {
-      "id": "54",
+      "id": "265",
       "title": "おてての西の拳Full",
       "src": "/voices/Handy/おてての西の拳Full.m4a"
     },
     {
-      "id": "55",
+      "id": "266",
       "title": "おててパーンチ001",
       "src": "/voices/Handy/おててパーンチ001.m4a"
     },
     {
-      "id": "56",
+      "id": "267",
       "title": "おててパーンチ002",
       "src": "/voices/Handy/おててパーンチ002.m4a"
     },
     {
-      "id": "57",
+      "id": "268",
       "title": "おててパーンチ003",
       "src": "/voices/Handy/おててパーンチ003.m4a"
     },
     {
-      "id": "58",
+      "id": "269",
       "title": "おててパーンチ004",
       "src": "/voices/Handy/おててパーンチ004.m4a"
     },
     {
-      "id": "59",
+      "id": "270",
       "title": "おててロケットパーンチ",
       "src": "/voices/Handy/おててロケットパーンチ.m4a"
     },
     {
-      "id": "60",
+      "id": "271",
       "title": "お前はそこでDripDripしてな",
       "src": "/voices/Handy/お前はそこでDripDripしてな.m4a"
     },
     {
-      "id": "61",
+      "id": "272",
       "title": "お前は調子悪い日の赤信号か",
       "src": "/voices/Handy/お前は調子悪い日の赤信号か.m4a"
     },
     {
-      "id": "62",
+      "id": "273",
       "title": "この状況からどうもできひんて",
       "src": "/voices/Handy/この状況からどうもできひんて.m4a"
     },
     {
-      "id": "63",
+      "id": "274",
       "title": "これがおててのおじさんです",
       "src": "/voices/Handy/これがおててのおじさんです.m4a"
     },
     {
-      "id": "64",
+      "id": "275",
       "title": "これやんこれやん",
       "src": "/voices/Handy/これやんこれやん.m4a"
     },
     {
-      "id": "65",
+      "id": "276",
       "title": "これ待ってたんや俺",
       "src": "/voices/Handy/これ待ってたんや俺.m4a"
     },
     {
-      "id": "66",
+      "id": "277",
       "title": "ごめんなみんな",
       "src": "/voices/Handy/ごめんなみんな.m4a"
     },
     {
-      "id": "67",
+      "id": "278",
       "title": "ずぉーん",
       "src": "/voices/Handy/ずぉーん.m4a"
     },
     {
-      "id": "68",
+      "id": "279",
       "title": "どうしょうCMの話とか来たらこれ",
       "src": "/voices/Handy/どうしょうCMの話とか来たらこれ.m4a"
     },
     {
-      "id": "69",
+      "id": "280",
       "title": "なにしてんねん",
       "src": "/voices/Handy/なにしてんねん.m4a"
     },
     {
-      "id": "70",
+      "id": "281",
       "title": "は",
       "src": "/voices/Handy/は.m4a"
     },
     {
-      "id": "71",
+      "id": "282",
       "title": "はいすいませんゲームさせてくださーい",
       "src": "/voices/Handy/はいすいませんゲームさせてくださーい.m4a"
     },
     {
-      "id": "72",
+      "id": "283",
       "title": "はい急上昇",
       "src": "/voices/Handy/はい急上昇.m4a"
     },
     {
-      "id": "73",
+      "id": "284",
       "title": "はい消えましたー",
       "src": "/voices/Handy/はい消えましたー.m4a"
     },
     {
-      "id": "74",
+      "id": "285",
       "title": "びゅーん",
       "src": "/voices/Handy/びゅーん.m4a"
     },
     {
-      "id": "75",
+      "id": "286",
       "title": "ほんまに",
       "src": "/voices/Handy/ほんまに.m4a"
     },
     {
-      "id": "76",
+      "id": "287",
       "title": "まあ手に馴染んだって言うべきかな",
       "src": "/voices/Handy/まあ手に馴染んだって言うべきかな.m4a"
     },
     {
-      "id": "77",
+      "id": "288",
       "title": "みんな大好きおててのおじさんきたよ",
       "src": "/voices/Handy/みんな大好きおててのおじさんきたよ.m4a"
     },
     {
-      "id": "78",
+      "id": "289",
       "title": "めっちゃいいやん",
       "src": "/voices/Handy/めっちゃいいやん.m4a"
     },
     {
-      "id": "79",
+      "id": "290",
       "title": "めっちゃムズないそれ",
       "src": "/voices/Handy/めっちゃムズないそれ.m4a"
     },
     {
-      "id": "80",
+      "id": "291",
       "title": "めっちゃ上手なってるやん",
       "src": "/voices/Handy/めっちゃ上手なってるやん.m4a"
     },
     {
-      "id": "81",
+      "id": "292",
       "title": "もう戻れへん二度と約束のあの場所に",
       "src": "/voices/Handy/もう戻れへん二度と約束のあの場所に.m4a"
     },
     {
-      "id": "82",
+      "id": "293",
       "title": "もぉー",
       "src": "/voices/Handy/もぉー.m4a"
     },
     {
-      "id": "83",
+      "id": "294",
       "title": "やったー",
       "src": "/voices/Handy/やったー.m4a"
     },
     {
-      "id": "84",
+      "id": "295",
       "title": "やばい",
       "src": "/voices/Handy/やばい.m4a"
     },
     {
-      "id": "85",
+      "id": "296",
       "title": "やめてあげてください",
       "src": "/voices/Handy/やめてあげてください.m4a"
     },
     {
-      "id": "86",
+      "id": "297",
       "title": "やめてあげてくださいて",
       "src": "/voices/Handy/やめてあげてくださいて.m4a"
     },
     {
-      "id": "87",
+      "id": "298",
       "title": "よいしょお",
       "src": "/voices/Handy/よいしょお.m4a"
     },
     {
-      "id": "88",
+      "id": "299",
       "title": "よっしぇーいよぇーい",
       "src": "/voices/Handy/よっしぇーいよぇーい.m4a"
     },
     {
-      "id": "89",
+      "id": "300",
       "title": "わーお",
       "src": "/voices/Handy/わーお.m4a"
     },
     {
-      "id": "90",
+      "id": "301",
       "title": "わーおわおわおわお",
       "src": "/voices/Handy/わーおわおわおわお.m4a"
     },
     {
-      "id": "91",
+      "id": "302",
       "title": "アカン",
       "src": "/voices/Handy/アカン.m4a"
     },
     {
-      "id": "92",
+      "id": "303",
       "title": "イェーイ",
       "src": "/voices/Handy/イェーイ.m4a"
     },
     {
-      "id": "93",
+      "id": "304",
       "title": "カウントダウン",
       "src": "/voices/Handy/カウントダウン.m4a"
     },
     {
-      "id": "94",
+      "id": "305",
       "title": "シュッシュッシュ",
       "src": "/voices/Handy/シュッシュッシュ.m4a"
     },
     {
-      "id": "95",
+      "id": "306",
       "title": "テンポがお前ドラゴンボールセル編ぐらい悪いわ",
       "src": "/voices/Handy/テンポがお前ドラゴンボールセル編ぐらい悪いわ.m4a"
     },
     {
-      "id": "96",
+      "id": "307",
       "title": "バナナの状態になってますよー",
       "src": "/voices/Handy/バナナの状態になってますよー.m4a"
     },
     {
-      "id": "97",
+      "id": "308",
       "title": "パスタいっぱい食べれそうでーす",
       "src": "/voices/Handy/パスタいっぱい食べれそうでーす.m4a"
     },
     {
-      "id": "98",
+      "id": "309",
       "title": "ビビってやがるぜ",
       "src": "/voices/Handy/ビビってやがるぜ.m4a"
     },
     {
-      "id": "99",
+      "id": "310",
       "title": "マジかよ",
       "src": "/voices/Handy/マジかよ.m4a"
     },
     {
-      "id": "100",
+      "id": "311",
       "title": "一切祝う気ないてどう",
       "src": "/voices/Handy/一切祝う気ないてどう.m4a"
     },
     {
-      "id": "101",
+      "id": "312",
       "title": "人差し指がバナナみたいになってしまったんですけど",
       "src": "/voices/Handy/人差し指がバナナみたいになってしまったんですけど.m4a"
     },
     {
-      "id": "102",
+      "id": "313",
       "title": "今見せよおててアターック",
       "src": "/voices/Handy/今見せよおててアターック.m4a"
     },
     {
-      "id": "103",
+      "id": "314",
       "title": "何もかもに引っかかってんねんお前は",
       "src": "/voices/Handy/何もかもに引っかかってんねんお前は.m4a"
     },
     {
-      "id": "104",
+      "id": "315",
       "title": "信じられへん",
       "src": "/voices/Handy/信じられへん.m4a"
     },
     {
-      "id": "105",
+      "id": "316",
       "title": "嘘やけど",
       "src": "/voices/Handy/嘘やけど.m4a"
     },
     {
-      "id": "106",
+      "id": "317",
       "title": "地獄に落ちな",
       "src": "/voices/Handy/地獄に落ちな.m4a"
     },
     {
-      "id": "107",
+      "id": "318",
       "title": "想定のスケールエグない",
       "src": "/voices/Handy/想定のスケールエグない.m4a"
     },
     {
-      "id": "108",
+      "id": "319",
       "title": "意味わからないんで次行きまーす",
       "src": "/voices/Handy/意味わからないんで次行きまーす.m4a"
     },
     {
-      "id": "109",
+      "id": "320",
       "title": "手ぇ出んぞおててのおじさんは",
       "src": "/voices/Handy/手ぇ出んぞおててのおじさんは.m4a"
     },
     {
-      "id": "110",
+      "id": "321",
       "title": "手に汗握る思いでおててのおじさん書いたから",
       "src": "/voices/Handy/手に汗握る思いでおててのおじさん書いたから.m4a"
     },
     {
-      "id": "111",
+      "id": "322",
       "title": "手間がかかっても相手に手をわずらわせるわけにはいかへんからおててのおじさんは",
       "src": "/voices/Handy/手間がかかっても相手に手をわずらわせるわけにはいかへんからおててのおじさんは.m4a"
     },
     {
-      "id": "112",
+      "id": "323",
       "title": "手首である必要がないとも言えるね",
       "src": "/voices/Handy/手首である必要がないとも言えるね.m4a"
     },
     {
-      "id": "113",
+      "id": "324",
       "title": "本日も1日お疲れ様でした",
       "src": "/voices/Handy/本日も1日お疲れ様でした.m4a"
     },
     {
-      "id": "114",
+      "id": "325",
       "title": "松山の左手もびっくり",
       "src": "/voices/Handy/松山の左手もびっくり.m4a"
     },
     {
-      "id": "115",
+      "id": "326",
       "title": "消え去れこの世から",
       "src": "/voices/Handy/消え去れこの世から.m4a"
     },
     {
-      "id": "116",
+      "id": "327",
       "title": "焦げ付くのは債権だけにしときなしときなね",
       "src": "/voices/Handy/焦げ付くのは債権だけにしときなしときなね.m4a"
     },
     {
-      "id": "117",
+      "id": "328",
       "title": "燃え上がれ",
       "src": "/voices/Handy/燃え上がれ.m4a"
     },
     {
-      "id": "118",
+      "id": "329",
       "title": "現場命なんでおててのおじさんは",
       "src": "/voices/Handy/現場命なんでおててのおじさんは.m4a"
     },
     {
-      "id": "119",
+      "id": "330",
       "title": "笑い声",
       "src": "/voices/Handy/笑い声.m4a"
     },
     {
-      "id": "120",
+      "id": "331",
       "title": "西の拳がお前今から火吹くぞ",
       "src": "/voices/Handy/西の拳がお前今から火吹くぞ.m4a"
     },
     {
-      "id": "121",
+      "id": "332",
       "title": "課金厨やこいつ課金厨",
       "src": "/voices/Handy/課金厨やこいつ課金厨.m4a"
     },
     {
-      "id": "122",
+      "id": "333",
       "title": "飽きた",
       "src": "/voices/Handy/飽きた.m4a"
     },
     {
-      "id": "123",
+      "id": "334",
       "title": "鬱陶しい",
       "src": "/voices/Handy/鬱陶しい.m4a"
     },
     {
-      "id": "124",
+      "id": "335",
       "title": "鬱陶しいですね",
       "src": "/voices/Handy/鬱陶しいですね.m4a"
     }
   ],
   "ウメロ": [
     {
-      "id": "125",
+      "id": "336",
       "title": "ウメロチャンス",
       "src": "/voices/ウメロ/ウメロチャンス.m4a"
     },
     {
-      "id": "126",
+      "id": "337",
       "title": "ツモウメロ",
       "src": "/voices/ウメロ/ツモウメロ.m4a"
     },
     {
-      "id": "127",
+      "id": "338",
       "title": "テンパっちゃってるウメロリーチ",
       "src": "/voices/ウメロ/テンパっちゃってるウメロリーチ.m4a"
     },
     {
-      "id": "128",
+      "id": "339",
       "title": "去るもの追わず、来るもぼののこばままばわず",
       "src": "/voices/ウメロ/去るもの追わず、来るもぼののこばままばわず.m4a"
     }
   ],
   "フィル・ジョーンズ": [
     {
-      "id": "129",
+      "id": "340",
       "title": "AかBかCか刑事で〜す",
       "src": "/voices/フィル・ジョーンズ/AかBかCか刑事で〜す.m4a"
     },
     {
-      "id": "130",
+      "id": "341",
       "title": "♪おさかな天国001",
       "src": "/voices/フィル・ジョーンズ/♪おさかな天国001.m4a"
     },
     {
-      "id": "131",
+      "id": "342",
       "title": "♪わっしょい",
       "src": "/voices/フィル・ジョーンズ/♪わっしょい.m4a"
     },
     {
-      "id": "132",
+      "id": "343",
       "title": "♪ﾄｩｰﾄﾞｩﾙﾄﾞｩﾙｯﾄﾞｩ",
       "src": "/voices/フィル・ジョーンズ/♪ﾄｩｰﾄﾞｩﾙﾄﾞｩﾙｯﾄﾞｩ.m4a"
     },
     {
-      "id": "133",
+      "id": "344",
       "title": "ああっとこれはやっちゃったな",
       "src": "/voices/フィル・ジョーンズ/ああっとこれはやっちゃったな.m4a"
     },
     {
-      "id": "134",
+      "id": "345",
       "title": "あっあなたよし子ちゃんじゃないですか",
       "src": "/voices/フィル・ジョーンズ/あっあなたよし子ちゃんじゃないですか.m4a"
     },
     {
-      "id": "135",
+      "id": "346",
       "title": "あれこれもしかしてやっちゃってる",
       "src": "/voices/フィル・ジョーンズ/あれこれもしかしてやっちゃってる.m4a"
     },
     {
-      "id": "136",
+      "id": "347",
       "title": "うそかい左",
       "src": "/voices/フィル・ジョーンズ/うそかい左.m4a"
     },
     {
-      "id": "137",
+      "id": "348",
       "title": "うるせぇハゲェ",
       "src": "/voices/フィル・ジョーンズ/うるせぇハゲェ.m4a"
     },
     {
-      "id": "138",
+      "id": "349",
       "title": "おいこれもしかしてやっちゃってんじゃないこれやっちゃってるよ",
       "src": "/voices/フィル・ジョーンズ/おいこれもしかしてやっちゃってんじゃないこれやっちゃってるよ.m4a"
     },
     {
-      "id": "139",
+      "id": "350",
       "title": "おいコラボケェお前おいおいおいおい",
       "src": "/voices/フィル・ジョーンズ/おいコラボケェお前おいおいおいおい.m4a"
     },
     {
-      "id": "140",
+      "id": "351",
       "title": "お前のプライバシーは俺のもの",
       "src": "/voices/フィル・ジョーンズ/お前のプライバシーは俺のもの.m4a"
     },
     {
-      "id": "141",
+      "id": "352",
       "title": "お前はツッコむところが多すぎるからいい",
       "src": "/voices/フィル・ジョーンズ/お前はツッコむところが多すぎるからいい.m4a"
     },
     {
-      "id": "142",
+      "id": "353",
       "title": "お前ふざけやがってこの野郎",
       "src": "/voices/フィル・ジョーンズ/お前ふざけやがってこの野郎.m4a"
     },
     {
-      "id": "143",
+      "id": "354",
       "title": "お邪魔しまーす",
       "src": "/voices/フィル・ジョーンズ/お邪魔しまーす.m4a"
     },
     {
-      "id": "144",
+      "id": "355",
       "title": "くそ、参ったな",
       "src": "/voices/フィル・ジョーンズ/くそ、参ったな.m4a"
     },
     {
-      "id": "145",
+      "id": "356",
       "title": "ぐっと上曲がってから右見ます",
       "src": "/voices/フィル・ジョーンズ/ぐっと上曲がってから右見ます.m4a"
     },
     {
-      "id": "146",
+      "id": "357",
       "title": "ぐんと上向かってから下見ます",
       "src": "/voices/フィル・ジョーンズ/ぐんと上向かってから下見ます.m4a"
     },
     {
-      "id": "147",
+      "id": "358",
       "title": "この街のゴミ片っ端から掃除してやらぁ",
       "src": "/voices/フィル・ジョーンズ/この街のゴミ片っ端から掃除してやらぁ.m4a"
     },
     {
-      "id": "148",
+      "id": "359",
       "title": "これからいよいよ仕事の時間だ",
       "src": "/voices/フィル・ジョーンズ/これからいよいよ仕事の時間だ.m4a"
     },
     {
-      "id": "149",
+      "id": "360",
       "title": "これだから困る",
       "src": "/voices/フィル・ジョーンズ/これだから困る.m4a"
     },
     {
-      "id": "150",
+      "id": "361",
       "title": "それでも男かこの野郎",
       "src": "/voices/フィル・ジョーンズ/それでも男かこの野郎.m4a"
     },
     {
-      "id": "151",
+      "id": "362",
       "title": "ちょっと待ておい",
       "src": "/voices/フィル・ジョーンズ/ちょっと待ておい.m4a"
     },
     {
-      "id": "152",
+      "id": "363",
       "title": "ところで俺のオフィスの場所はどこなんだ",
       "src": "/voices/フィル・ジョーンズ/ところで俺のオフィスの場所はどこなんだ.m4a"
     },
     {
-      "id": "153",
+      "id": "364",
       "title": "とっ捕まえちまうぞお前を",
       "src": "/voices/フィル・ジョーンズ/とっ捕まえちまうぞお前を.m4a"
     },
     {
-      "id": "154",
+      "id": "365",
       "title": "とてもよかったですﾊｧﾊｧ",
       "src": "/voices/フィル・ジョーンズ/とてもよかったですﾊｧﾊｧ.m4a"
     },
     {
-      "id": "155",
+      "id": "366",
       "title": "なんだお前",
       "src": "/voices/フィル・ジョーンズ/なんだお前.m4a"
     },
     {
-      "id": "156",
+      "id": "367",
       "title": "なんだお前は",
       "src": "/voices/フィル・ジョーンズ/なんだお前は.m4a"
     },
     {
-      "id": "157",
+      "id": "368",
       "title": "なんだこの野郎おい",
       "src": "/voices/フィル・ジョーンズ/なんだこの野郎おい.m4a"
     },
     {
-      "id": "158",
+      "id": "369",
       "title": "なんだこれ全部くれるのか",
       "src": "/voices/フィル・ジョーンズ/なんだこれ全部くれるのか.m4a"
     },
     {
-      "id": "159",
+      "id": "370",
       "title": "なんてこったいそんなにしていただいて",
       "src": "/voices/フィル・ジョーンズ/なんてこったいそんなにしていただいて.m4a"
     },
     {
-      "id": "160",
+      "id": "371",
       "title": "なんてもの持ってんだお前",
       "src": "/voices/フィル・ジョーンズ/なんてもの持ってんだお前.m4a"
     },
     {
-      "id": "161",
+      "id": "372",
       "title": "なーんてなBSアーンテナ",
       "src": "/voices/フィル・ジョーンズ/なーんてなBSアーンテナ.m4a"
     },
     {
-      "id": "162",
+      "id": "373",
       "title": "はぁ、疲れた001",
       "src": "/voices/フィル・ジョーンズ/はぁ、疲れた001.m4a"
     },
     {
-      "id": "163",
+      "id": "374",
       "title": "はぁ、疲れた002",
       "src": "/voices/フィル・ジョーンズ/はぁ、疲れた002.m4a"
     },
     {
-      "id": "164",
+      "id": "375",
       "title": "はぁ、疲れた003",
       "src": "/voices/フィル・ジョーンズ/はぁ、疲れた003.m4a"
     },
     {
-      "id": "165",
+      "id": "376",
       "title": "はぁ、疲れた004",
       "src": "/voices/フィル・ジョーンズ/はぁ、疲れた004.m4a"
     },
     {
-      "id": "166",
+      "id": "377",
       "title": "はぁ、疲れた005",
       "src": "/voices/フィル・ジョーンズ/はぁ、疲れた005.m4a"
     },
     {
-      "id": "167",
+      "id": "378",
       "title": "はぁ、疲れた006",
       "src": "/voices/フィル・ジョーンズ/はぁ、疲れた006.m4a"
     },
     {
-      "id": "168",
+      "id": "379",
       "title": "はぁ、疲れた007",
       "src": "/voices/フィル・ジョーンズ/はぁ、疲れた007.m4a"
     },
     {
-      "id": "169",
+      "id": "380",
       "title": "はぁ、疲れた008",
       "src": "/voices/フィル・ジョーンズ/はぁ、疲れた008.m4a"
     },
     {
-      "id": "170",
+      "id": "381",
       "title": "もう一回見ていい、うわやっちゃってるよこれ",
       "src": "/voices/フィル・ジョーンズ/もう一回見ていい、うわやっちゃってるよこれ.m4a"
     },
     {
-      "id": "171",
+      "id": "382",
       "title": "もう逃げられないよよし子ちゃん",
       "src": "/voices/フィル・ジョーンズ/もう逃げられないよよし子ちゃん.m4a"
     },
     {
-      "id": "172",
+      "id": "383",
       "title": "やってらんないね",
       "src": "/voices/フィル・ジョーンズ/やってらんないね.m4a"
     },
     {
-      "id": "173",
+      "id": "384",
       "title": "ようそこの若えの俺の言うことを聞いてくれ",
       "src": "/voices/フィル・ジョーンズ/ようそこの若えの俺の言うことを聞いてくれ.m4a"
     },
     {
-      "id": "174",
+      "id": "385",
       "title": "よし子ちゃん001",
       "src": "/voices/フィル・ジョーンズ/よし子ちゃん001.m4a"
     },
     {
-      "id": "175",
+      "id": "386",
       "title": "よし子ちゃん002",
       "src": "/voices/フィル・ジョーンズ/よし子ちゃん002.m4a"
     },
     {
-      "id": "176",
+      "id": "387",
       "title": "よし子ちゃん003",
       "src": "/voices/フィル・ジョーンズ/よし子ちゃん003.m4a"
     },
     {
-      "id": "177",
+      "id": "388",
       "title": "よし子ちゃん004",
       "src": "/voices/フィル・ジョーンズ/よし子ちゃん004.m4a"
     },
     {
-      "id": "178",
+      "id": "389",
       "title": "よし子ちゃん005",
       "src": "/voices/フィル・ジョーンズ/よし子ちゃん005.m4a"
     },
     {
-      "id": "179",
+      "id": "390",
       "title": "よし子ちゃん006",
       "src": "/voices/フィル・ジョーンズ/よし子ちゃん006.m4a"
     },
     {
-      "id": "180",
+      "id": "391",
       "title": "よし子ちゃん007",
       "src": "/voices/フィル・ジョーンズ/よし子ちゃん007.m4a"
     },
     {
-      "id": "181",
+      "id": "392",
       "title": "よし子ちゃん008",
       "src": "/voices/フィル・ジョーンズ/よし子ちゃん008.m4a"
     },
     {
-      "id": "182",
+      "id": "393",
       "title": "よし子ちゃん009",
       "src": "/voices/フィル・ジョーンズ/よし子ちゃん009.m4a"
     },
     {
-      "id": "183",
+      "id": "394",
       "title": "よし子ちゃん010",
       "src": "/voices/フィル・ジョーンズ/よし子ちゃん010.m4a"
     },
     {
-      "id": "184",
+      "id": "395",
       "title": "よし子ちゃん011",
       "src": "/voices/フィル・ジョーンズ/よし子ちゃん011.m4a"
     },
     {
-      "id": "185",
+      "id": "396",
       "title": "よし子ちゃん012",
       "src": "/voices/フィル・ジョーンズ/よし子ちゃん012.m4a"
     },
     {
-      "id": "186",
+      "id": "397",
       "title": "よし子ちゃん013",
       "src": "/voices/フィル・ジョーンズ/よし子ちゃん013.m4a"
     },
     {
-      "id": "187",
+      "id": "398",
       "title": "よし子ちゃんとドライブだ",
       "src": "/voices/フィル・ジョーンズ/よし子ちゃんとドライブだ.m4a"
     },
     {
-      "id": "188",
+      "id": "399",
       "title": "よし子ちゃん今日も横腹パッパしようねえ",
       "src": "/voices/フィル・ジョーンズ/よし子ちゃん今日も横腹パッパしようねえ.m4a"
     },
     {
-      "id": "189",
+      "id": "400",
       "title": "よし子ちゃん横取りする気かこの野郎",
       "src": "/voices/フィル・ジョーンズ/よし子ちゃん横取りする気かこの野郎.m4a"
     },
     {
-      "id": "190",
+      "id": "401",
       "title": "よし子ちゃん死ぬまで逃さないんだからね",
       "src": "/voices/フィル・ジョーンズ/よし子ちゃん死ぬまで逃さないんだからね.m4a"
     },
     {
-      "id": "191",
+      "id": "402",
       "title": "よし素直でいい子だ",
       "src": "/voices/フィル・ジョーンズ/よし素直でいい子だ.m4a"
     },
     {
-      "id": "192",
+      "id": "403",
       "title": "よろしく頼む",
       "src": "/voices/フィル・ジョーンズ/よろしく頼む.m4a"
     },
     {
-      "id": "193",
+      "id": "404",
       "title": "よーし腹が減った",
       "src": "/voices/フィル・ジョーンズ/よーし腹が減った.m4a"
     },
     {
-      "id": "194",
+      "id": "405",
       "title": "エアコンをつけると寒いけどエアコンを切っちゃうと暑いのなーんでだ",
       "src": "/voices/フィル・ジョーンズ/エアコンをつけると寒いけどエアコンを切っちゃうと暑いのなーんでだ.m4a"
     },
     {
-      "id": "195",
+      "id": "406",
       "title": "パッパッパッパ脇腹パッパッパ",
       "src": "/voices/フィル・ジョーンズ/パッパッパッパ脇腹パッパッパ.m4a"
     },
     {
-      "id": "196",
+      "id": "407",
       "title": "ハァッハァッただいま",
       "src": "/voices/フィル・ジョーンズ/ハァッハァッただいま.m4a"
     },
     {
-      "id": "197",
+      "id": "408",
       "title": "フィル・ジョーンズ捜査官がただいま戻ってきたぞ",
       "src": "/voices/フィル・ジョーンズ/フィル・ジョーンズ捜査官がただいま戻ってきたぞ.m4a"
     },
     {
-      "id": "198",
+      "id": "409",
       "title": "二度と俺にツラ見せんな",
       "src": "/voices/フィル・ジョーンズ/二度と俺にツラ見せんな.m4a"
     },
     {
-      "id": "199",
+      "id": "410",
       "title": "人のよし子ちゃんを取れると思うな",
       "src": "/voices/フィル・ジョーンズ/人のよし子ちゃんを取れると思うな.m4a"
     },
     {
-      "id": "200",
+      "id": "411",
       "title": "今日から横腹パチパチの毎日だ",
       "src": "/voices/フィル・ジョーンズ/今日から横腹パチパチの毎日だ.m4a"
     },
     {
-      "id": "201",
+      "id": "412",
       "title": "今日の横腹からは何が出てくるだろうなあ",
       "src": "/voices/フィル・ジョーンズ/今日の横腹からは何が出てくるだろうなあ.m4a"
     },
     {
-      "id": "202",
+      "id": "413",
       "title": "俺が言うのもなんだがちゃんと仕事しような",
       "src": "/voices/フィル・ジョーンズ/俺が言うのもなんだがちゃんと仕事しような.m4a"
     },
     {
-      "id": "203",
+      "id": "414",
       "title": "俺のよし子ちゃんを返せ",
       "src": "/voices/フィル・ジョーンズ/俺のよし子ちゃんを返せ.m4a"
     },
     {
-      "id": "204",
+      "id": "415",
       "title": "俺の人生っていう刑務所に終身刑でぶち込まれてくれないか",
       "src": "/voices/フィル・ジョーンズ/俺の人生っていう刑務所に終身刑でぶち込まれてくれないか.m4a"
     },
     {
-      "id": "205",
+      "id": "416",
       "title": "借りを作るつもりかい俺に",
       "src": "/voices/フィル・ジョーンズ/借りを作るつもりかい俺に.m4a"
     },
     {
-      "id": "206",
+      "id": "417",
       "title": "口先だけの言い訳はもう充分だ",
       "src": "/voices/フィル・ジョーンズ/口先だけの言い訳はもう充分だ.m4a"
     },
     {
-      "id": "207",
+      "id": "418",
       "title": "右へ回ります",
       "src": "/voices/フィル・ジョーンズ/右へ回ります.m4a"
     },
     {
-      "id": "208",
+      "id": "419",
       "title": "同情するなら金をくれ",
       "src": "/voices/フィル・ジョーンズ/同情するなら金をくれ.m4a"
     },
     {
-      "id": "209",
+      "id": "420",
       "title": "同情するなら金をくれ002",
       "src": "/voices/フィル・ジョーンズ/同情するなら金をくれ002.m4a"
     },
     {
-      "id": "210",
+      "id": "421",
       "title": "四角大好き人間かお前は",
       "src": "/voices/フィル・ジョーンズ/四角大好き人間かお前は.m4a"
     },
     {
-      "id": "211",
+      "id": "422",
       "title": "場合によっちゃお前耳の位置上すぎる罪で逮捕するぞ",
       "src": "/voices/フィル・ジョーンズ/場合によっちゃお前耳の位置上すぎる罪で逮捕するぞ.m4a"
     },
     {
-      "id": "212",
+      "id": "423",
       "title": "市民税払ってりゃ偉そうにしていいと思いやがって",
       "src": "/voices/フィル・ジョーンズ/市民税払ってりゃ偉そうにしていいと思いやがって.m4a"
     },
     {
-      "id": "213",
+      "id": "424",
       "title": "性犯罪者だお前捕まえろ",
       "src": "/voices/フィル・ジョーンズ/性犯罪者だお前捕まえろ.m4a"
     },
     {
-      "id": "214",
+      "id": "425",
       "title": "悪をみすみす逃すと思うな",
       "src": "/voices/フィル・ジョーンズ/悪をみすみす逃すと思うな.m4a"
     },
     {
-      "id": "215",
+      "id": "426",
       "title": "日本舞踊できるくらい姿勢いいな",
       "src": "/voices/フィル・ジョーンズ/日本舞踊できるくらい姿勢いいな.m4a"
     },
     {
-      "id": "216",
+      "id": "427",
       "title": "早く後ろ向いて横腹パッパッパさせろ",
       "src": "/voices/フィル・ジョーンズ/早く後ろ向いて横腹パッパッパさせろ.m4a"
     },
     {
-      "id": "217",
+      "id": "428",
       "title": "昼のフィルの緊急指令集",
       "src": "/voices/フィル・ジョーンズ/昼のフィルの緊急指令集.m4a"
     },
     {
-      "id": "218",
+      "id": "429",
       "title": "横腹パッパッパ001",
       "src": "/voices/フィル・ジョーンズ/横腹パッパッパ001.m4a"
     },
     {
-      "id": "219",
+      "id": "430",
       "title": "横腹パッパッパ002",
       "src": "/voices/フィル・ジョーンズ/横腹パッパッパ002.m4a"
     },
     {
-      "id": "220",
+      "id": "431",
       "title": "横腹パッパッパ003",
       "src": "/voices/フィル・ジョーンズ/横腹パッパッパ003.m4a"
     },
     {
-      "id": "221",
+      "id": "432",
       "title": "横腹パッパッパ004",
       "src": "/voices/フィル・ジョーンズ/横腹パッパッパ004.m4a"
     },
     {
-      "id": "222",
+      "id": "433",
       "title": "横腹パッパッパ005",
       "src": "/voices/フィル・ジョーンズ/横腹パッパッパ005.m4a"
     },
     {
-      "id": "223",
+      "id": "434",
       "title": "横腹パッパッパチパチさせろ",
       "src": "/voices/フィル・ジョーンズ/横腹パッパッパチパチさせろ.m4a"
     },
     {
-      "id": "224",
+      "id": "435",
       "title": "灯台下暗しとは正にこのことだな",
       "src": "/voices/フィル・ジョーンズ/灯台下暗しとは正にこのことだな.m4a"
     },
     {
-      "id": "225",
+      "id": "436",
       "title": "碇シンジ逃げちゃダメだ逃げちゃダメだ",
       "src": "/voices/フィル・ジョーンズ/碇シンジ逃げちゃダメだ逃げちゃダメだ.m4a"
     },
     {
-      "id": "226",
+      "id": "437",
       "title": "第二のよし子ちゃんを探さないと",
       "src": "/voices/フィル・ジョーンズ/第二のよし子ちゃんを探さないと.m4a"
     },
     {
-      "id": "227",
+      "id": "438",
       "title": "結婚してください",
       "src": "/voices/フィル・ジョーンズ/結婚してください.m4a"
     },
     {
-      "id": "228",
+      "id": "439",
       "title": "脇腹パッパがしたくてしたくてしょうがねえんだ",
       "src": "/voices/フィル・ジョーンズ/脇腹パッパがしたくてしたくてしょうがねえんだ.m4a"
     },
     {
-      "id": "229",
+      "id": "440",
       "title": "脇腹パッパさせろ",
       "src": "/voices/フィル・ジョーンズ/脇腹パッパさせろ.m4a"
     },
     {
-      "id": "230",
+      "id": "441",
       "title": "薬やってるなお前",
       "src": "/voices/フィル・ジョーンズ/薬やってるなお前.m4a"
     },
     {
-      "id": "231",
+      "id": "442",
       "title": "虎穴に入らずんば虎子を得ずってことか",
       "src": "/voices/フィル・ジョーンズ/虎穴に入らずんば虎子を得ずってことか.m4a"
     },
     {
-      "id": "232",
+      "id": "443",
       "title": "調子どうだ武器商人",
       "src": "/voices/フィル・ジョーンズ/調子どうだ武器商人.m4a"
     },
     {
-      "id": "233",
+      "id": "444",
       "title": "踊れよし子ちゃんアスファルトというステージの上でな",
       "src": "/voices/フィル・ジョーンズ/踊れよし子ちゃんアスファルトというステージの上でな.m4a"
     },
     {
-      "id": "234",
+      "id": "445",
       "title": "車高の低さは知能の低さっつうんだぞ",
       "src": "/voices/フィル・ジョーンズ/車高の低さは知能の低さっつうんだぞ.m4a"
     },
     {
-      "id": "235",
+      "id": "446",
       "title": "逃げちゃダメだよよし子ちゃん",
       "src": "/voices/フィル・ジョーンズ/逃げちゃダメだよよし子ちゃん.m4a"
     },
     {
-      "id": "236",
+      "id": "447",
       "title": "逃げられると思ったかお前",
       "src": "/voices/フィル・ジョーンズ/逃げられると思ったかお前.m4a"
     },
     {
-      "id": "237",
+      "id": "448",
       "title": "逃げろ逃げてみろよこの私のハンドガンからな",
       "src": "/voices/フィル・ジョーンズ/逃げろ逃げてみろよこの私のハンドガンからな.m4a"
     }
   ],
   "マリオメーカー2": [
     {
-      "id": "238",
+      "id": "449",
       "title": "きのことして腐って可燃ゴミで捨てられろ",
       "src": "/voices/マリオメーカー2/きのことして腐って可燃ゴミで捨てられろ.m4a"
     },
     {
-      "id": "239",
+      "id": "450",
       "title": "それでもな、おじさんはな、お前のこと好っきゃで",
       "src": "/voices/マリオメーカー2/それでもな、おじさんはな、お前のこと好っきゃで.m4a"
     },
     {
-      "id": "240",
+      "id": "451",
       "title": "ちょいジャンプちょいジャンプ大ジャ〜ン",
       "src": "/voices/マリオメーカー2/ちょいジャンプちょいジャンプ大ジャ〜ン.m4a"
     },
     {
-      "id": "241",
+      "id": "452",
       "title": "スター",
       "src": "/voices/マリオメーカー2/スター.m4a"
     },
     {
-      "id": "242",
+      "id": "453",
       "title": "ドイツ語",
       "src": "/voices/マリオメーカー2/ドイツ語.m4a"
     },
     {
-      "id": "243",
+      "id": "454",
       "title": "ヒロシです",
       "src": "/voices/マリオメーカー2/ヒロシです.m4a"
     },
     {
-      "id": "244",
+      "id": "455",
       "title": "フランス語",
       "src": "/voices/マリオメーカー2/フランス語.m4a"
     },
     {
-      "id": "245",
+      "id": "456",
       "title": "朝鮮語001",
       "src": "/voices/マリオメーカー2/朝鮮語001.m4a"
     },
     {
-      "id": "246",
+      "id": "457",
       "title": "朝鮮語002",
       "src": "/voices/マリオメーカー2/朝鮮語002.m4a"
     },
     {
-      "id": "247",
+      "id": "458",
       "title": "鬱陶しいわ",
       "src": "/voices/マリオメーカー2/鬱陶しいわ.m4a"
     },
     {
-      "id": "248",
+      "id": "459",
       "title": "ｲｯﾂﾐｰﾏｰﾘｵｰ",
       "src": "/voices/マリオメーカー2/ｲｯﾂﾐｰﾏｰﾘｵｰ.m4a"
     },
     {
-      "id": "249",
+      "id": "460",
       "title": "ﾍﾞｯﾍﾟｰﾍﾟﾍﾟﾍﾟﾍﾟｯﾍﾟｰｲｭﾝ",
       "src": "/voices/マリオメーカー2/ﾍﾞｯﾍﾟｰﾍﾟﾍﾟﾍﾟﾍﾟｯﾍﾟｰｲｭﾝ.m4a"
     }
   ],
   "ラグナロクマスターズ": [
     {
-      "id": "250",
+      "id": "461",
       "title": "ああそう、へえ〜",
       "src": "/voices/ラグナロクマスターズ/ああそう、へえ〜.m4a"
     },
     {
-      "id": "251",
+      "id": "462",
       "title": "あら〜",
       "src": "/voices/ラグナロクマスターズ/あら〜.m4a"
     },
     {
-      "id": "252",
+      "id": "463",
       "title": "あら〜かいらしいなんか",
       "src": "/voices/ラグナロクマスターズ/あら〜かいらしいなんか.m4a"
     },
     {
-      "id": "253",
+      "id": "464",
       "title": "あら〜今日は赤飯食べなアカンわ",
       "src": "/voices/ラグナロクマスターズ/あら〜今日は赤飯食べなアカンわ.m4a"
     },
     {
-      "id": "254",
+      "id": "465",
       "title": "あらどしたんこんな時間に起きてきて",
       "src": "/voices/ラグナロクマスターズ/あらどしたんこんな時間に起きてきて.m4a"
     },
     {
-      "id": "255",
+      "id": "466",
       "title": "ありがとうございました",
       "src": "/voices/ラグナロクマスターズ/ありがとうございました.m4a"
     },
     {
-      "id": "256",
+      "id": "467",
       "title": "あん時大変やったんやから",
       "src": "/voices/ラグナロクマスターズ/あん時大変やったんやから.m4a"
     },
     {
-      "id": "257",
+      "id": "468",
       "title": "かわいらしいな",
       "src": "/voices/ラグナロクマスターズ/かわいらしいな.m4a"
     },
     {
-      "id": "258",
+      "id": "469",
       "title": "この程度痛くも痒くもないわ",
       "src": "/voices/ラグナロクマスターズ/この程度痛くも痒くもないわ.m4a"
     },
     {
-      "id": "259",
+      "id": "470",
       "title": "こんなに楽しかったら全世界中の人がやるしかないもんな",
       "src": "/voices/ラグナロクマスターズ/こんなに楽しかったら全世界中の人がやるしかないもんな.m4a"
     },
     {
-      "id": "260",
+      "id": "471",
       "title": "せやな",
       "src": "/voices/ラグナロクマスターズ/せやな.m4a"
     },
     {
-      "id": "261",
+      "id": "472",
       "title": "そこはタイのお頭のほうがええんちゃうかな",
       "src": "/voices/ラグナロクマスターズ/そこはタイのお頭のほうがええんちゃうかな.m4a"
     },
     {
-      "id": "262",
+      "id": "473",
       "title": "なでる！！",
       "src": "/voices/ラグナロクマスターズ/なでる！！.m4a"
     },
     {
-      "id": "263",
+      "id": "474",
       "title": "なんでお母さんこんなことさせられなアカンの",
       "src": "/voices/ラグナロクマスターズ/なんでお母さんこんなことさせられなアカンの.m4a"
     },
     {
-      "id": "264",
+      "id": "475",
       "title": "なんでお母さんゲームの世界の中でもこんなことさせられなアカンの",
       "src": "/voices/ラグナロクマスターズ/なんでお母さんゲームの世界の中でもこんなことさせられなアカンの.m4a"
     },
     {
-      "id": "265",
+      "id": "476",
       "title": "なんでそんなこと言うのよあんたせやから",
       "src": "/voices/ラグナロクマスターズ/なんでそんなこと言うのよあんたせやから.m4a"
     },
     {
-      "id": "266",
+      "id": "477",
       "title": "はいチーズ",
       "src": "/voices/ラグナロクマスターズ/はいチーズ.m4a"
     },
     {
-      "id": "267",
+      "id": "478",
       "title": "ひろくんにタイのお頭食べさせてあげられへんかったから",
       "src": "/voices/ラグナロクマスターズ/ひろくんにタイのお頭食べさせてあげられへんかったから.m4a"
     },
     {
-      "id": "268",
+      "id": "479",
       "title": "ほんと上手なりましたね",
       "src": "/voices/ラグナロクマスターズ/ほんと上手なりましたね.m4a"
     },
     {
-      "id": "269",
+      "id": "480",
       "title": "まーちゃんて誰やねん",
       "src": "/voices/ラグナロクマスターズ/まーちゃんて誰やねん.m4a"
     },
     {
-      "id": "270",
+      "id": "481",
       "title": "むちゃくちゃ人いるねえ",
       "src": "/voices/ラグナロクマスターズ/むちゃくちゃ人いるねえ.m4a"
     },
     {
-      "id": "271",
+      "id": "482",
       "title": "もういいですお母さんは",
       "src": "/voices/ラグナロクマスターズ/もういいですお母さんは.m4a"
     },
     {
-      "id": "272",
+      "id": "483",
       "title": "もうちょっと好感持ってよぼくに",
       "src": "/voices/ラグナロクマスターズ/もうちょっと好感持ってよぼくに.m4a"
     },
     {
-      "id": "273",
+      "id": "484",
       "title": "もうやめてくださいお願いします",
       "src": "/voices/ラグナロクマスターズ/もうやめてくださいお願いします.m4a"
     },
     {
-      "id": "274",
+      "id": "485",
       "title": "やめてください",
       "src": "/voices/ラグナロクマスターズ/やめてください.m4a"
     },
     {
-      "id": "275",
+      "id": "486",
       "title": "よぉ〜えぇ〜い",
       "src": "/voices/ラグナロクマスターズ/よぉ〜えぇ〜い.m4a"
     },
     {
-      "id": "276",
+      "id": "487",
       "title": "んなこと言うなよお前",
       "src": "/voices/ラグナロクマスターズ/んなこと言うなよお前.m4a"
     },
     {
-      "id": "277",
+      "id": "488",
       "title": "んーっあぁ",
       "src": "/voices/ラグナロクマスターズ/んーっあぁ.m4a"
     },
     {
-      "id": "278",
+      "id": "489",
       "title": "ウチはそんなにお金も持ってません渡すものなんかないです",
       "src": "/voices/ラグナロクマスターズ/ウチはそんなにお金も持ってません渡すものなんかないです.m4a"
     },
     {
-      "id": "279",
+      "id": "490",
       "title": "オカン笑い声",
       "src": "/voices/ラグナロクマスターズ/オカン笑い声.m4a"
     },
     {
-      "id": "280",
+      "id": "491",
       "title": "キレるオカン",
       "src": "/voices/ラグナロクマスターズ/キレるオカン.m4a"
     },
     {
-      "id": "281",
+      "id": "492",
       "title": "スイッチオン",
       "src": "/voices/ラグナロクマスターズ/スイッチオン.m4a"
     },
     {
-      "id": "282",
+      "id": "493",
       "title": "ベールが倒れているよ左側で",
       "src": "/voices/ラグナロクマスターズ/ベールが倒れているよ左側で.m4a"
     },
     {
-      "id": "283",
+      "id": "494",
       "title": "マーチャントかい",
       "src": "/voices/ラグナロクマスターズ/マーチャントかい.m4a"
     },
     {
-      "id": "284",
+      "id": "495",
       "title": "人間死ねぇ",
       "src": "/voices/ラグナロクマスターズ/人間死ねぇ.m4a"
     },
     {
-      "id": "285",
+      "id": "496",
       "title": "俺の愛世界中に広まることになるで",
       "src": "/voices/ラグナロクマスターズ/俺の愛世界中に広まることになるで.m4a"
     },
     {
-      "id": "286",
+      "id": "497",
       "title": "子宮からやり直すか",
       "src": "/voices/ラグナロクマスターズ/子宮からやり直すか.m4a"
     },
     {
-      "id": "287",
+      "id": "498",
       "title": "子宮からやり直そか",
       "src": "/voices/ラグナロクマスターズ/子宮からやり直そか.m4a"
     },
     {
-      "id": "288",
+      "id": "499",
       "title": "完全にハマってもうてるやん",
       "src": "/voices/ラグナロクマスターズ/完全にハマってもうてるやん.m4a"
     },
     {
-      "id": "289",
+      "id": "500",
       "title": "私が一生懸命働いて払ってるお金で携帯代が払われています",
       "src": "/voices/ラグナロクマスターズ/私が一生懸命働いて払ってるお金で携帯代が払われています.m4a"
     },
     {
-      "id": "290",
+      "id": "501",
       "title": "絶対しませんお母さんは",
       "src": "/voices/ラグナロクマスターズ/絶対しませんお母さんは.m4a"
     },
     {
-      "id": "291",
+      "id": "502",
       "title": "薬剤師なりたいわ",
       "src": "/voices/ラグナロクマスターズ/薬剤師なりたいわ.m4a"
     },
     {
-      "id": "292",
+      "id": "503",
       "title": "誰ですか",
       "src": "/voices/ラグナロクマスターズ/誰ですか.m4a"
     },
     {
-      "id": "293",
+      "id": "504",
       "title": "迷惑かけるのやめてください",
       "src": "/voices/ラグナロクマスターズ/迷惑かけるのやめてください.m4a"
     }
   ],
   "挨拶": [
     {
-      "id": "294",
+      "id": "505",
       "title": "すごくなくても",
       "src": "/voices/挨拶/すごくなくても.m4a"
     },
     {
-      "id": "295",
+      "id": "506",
       "title": "たどたどしい",
       "src": "/voices/挨拶/たどたどしい.m4a"
     },
     {
-      "id": "296",
+      "id": "507",
       "title": "アメダス",
       "src": "/voices/挨拶/アメダス.m4a"
     },
     {
-      "id": "297",
+      "id": "508",
+      "title": "ジャムおじさん",
+      "src": "/voices/挨拶/ジャムおじさん.m4a"
+    },
+    {
+      "id": "509",
       "title": "スピーカーフォン",
       "src": "/voices/挨拶/スピーカーフォン.m4a"
     },
     {
-      "id": "298",
+      "id": "510",
       "title": "フランス人とのハーフ",
       "src": "/voices/挨拶/フランス人とのハーフ.m4a"
     },
     {
-      "id": "299",
+      "id": "511",
+      "title": "マッキー",
+      "src": "/voices/挨拶/マッキー.m4a"
+    },
+    {
+      "id": "512",
+      "title": "ミステイクその先",
+      "src": "/voices/挨拶/ミステイクその先.m4a"
+    },
+    {
+      "id": "513",
       "title": "ミニチュア",
       "src": "/voices/挨拶/ミニチュア.m4a"
+    },
+    {
+      "id": "514",
+      "title": "趣味の悪い輩",
+      "src": "/voices/挨拶/趣味の悪い輩.m4a"
     }
   ],
   "歌": [
     {
-      "id": "300",
+      "id": "515",
+      "title": "♪A_Hole_New_World",
+      "src": "/voices/歌/♪A_Hole_New_World.m4a"
+    },
+    {
+      "id": "516",
       "title": "♪ハイジ",
       "src": "/voices/歌/♪ハイジ.m4a"
     },
     {
-      "id": "301",
+      "id": "517",
       "title": "♪ヤッターマン",
       "src": "/voices/歌/♪ヤッターマン.m4a"
     },
     {
-      "id": "302",
+      "id": "518",
       "title": "♪名探偵ソーナン001",
       "src": "/voices/歌/♪名探偵ソーナン001.m4a"
     },
     {
-      "id": "303",
+      "id": "519",
       "title": "♪名探偵ソーナン002",
       "src": "/voices/歌/♪名探偵ソーナン002.m4a"
     },
     {
-      "id": "304",
+      "id": "520",
+      "title": "♪妖怪体操第一",
+      "src": "/voices/歌/♪妖怪体操第一.m4a"
+    },
+    {
+      "id": "521",
       "title": "♪恋のドレミ",
       "src": "/voices/歌/♪恋のドレミ.m4a"
     },
     {
-      "id": "305",
+      "id": "522",
       "title": "♪恋人よ",
       "src": "/voices/歌/♪恋人よ.m4a"
     },
     {
-      "id": "306",
+      "id": "523",
       "title": "♪授与の儀",
       "src": "/voices/歌/♪授与の儀.m4a"
     },
     {
-      "id": "307",
+      "id": "524",
+      "title": "♪桜坂",
+      "src": "/voices/歌/♪桜坂.m4a"
+    },
+    {
+      "id": "525",
       "title": "♪牛は白黒",
       "src": "/voices/歌/♪牛は白黒.m4a"
     },
     {
-      "id": "308",
+      "id": "526",
       "title": "♪親孝行国歌斉唱",
       "src": "/voices/歌/♪親孝行国歌斉唱.m4a"
     },
     {
-      "id": "309",
+      "id": "527",
       "title": "♪誰でもいい",
       "src": "/voices/歌/♪誰でもいい.m4a"
     },
     {
-      "id": "310",
+      "id": "528",
       "title": "♪雨が降る時も001",
       "src": "/voices/歌/♪雨が降る時も001.m4a"
     },
     {
-      "id": "311",
+      "id": "529",
       "title": "♪雨が降る時も002",
       "src": "/voices/歌/♪雨が降る時も002.m4a"
     },
     {
-      "id": "312",
+      "id": "530",
       "title": "バラードバージョンマリオ",
       "src": "/voices/歌/バラードバージョンマリオ.m4a"
     }
   ],
   "雑談など": [
     {
-      "id": "313",
-      "title": "おかわり頂けただろうか",
-      "src": "/voices/雑談など/おかわり頂けただろうか.m4a"
-    },
-    {
-      "id": "314",
+      "id": "531",
       "title": "この野郎001",
       "src": "/voices/雑談など/この野郎001.m4a"
     },
     {
-      "id": "315",
+      "id": "532",
       "title": "この野郎002",
       "src": "/voices/雑談など/この野郎002.m4a"
     },
     {
-      "id": "316",
+      "id": "533",
       "title": "しんどい",
       "src": "/voices/雑談など/しんどい.m4a"
     },
     {
-      "id": "317",
+      "id": "534",
       "title": "とか言っちゃってイェイイェイイェイ",
       "src": "/voices/雑談など/とか言っちゃってイェイイェイイェイ.m4a"
     },
     {
-      "id": "318",
+      "id": "535",
       "title": "なんでやねん001",
       "src": "/voices/雑談など/なんでやねん001.m4a"
     },
     {
-      "id": "319",
+      "id": "536",
       "title": "アバダケダブラ",
       "src": "/voices/雑談など/アバダケダブラ.m4a"
     },
     {
-      "id": "320",
+      "id": "537",
       "title": "エクスペクトパトローナマーム",
       "src": "/voices/雑談など/エクスペクトパトローナマーム.m4a"
     },
     {
-      "id": "321",
+      "id": "538",
       "title": "エクスペリアームス",
       "src": "/voices/雑談など/エクスペリアームス.m4a"
     },
     {
-      "id": "322",
+      "id": "539",
       "title": "フルコンボだドォンヌ",
       "src": "/voices/雑談など/フルコンボだドォンヌ.m4a"
     },
     {
-      "id": "323",
+      "id": "540",
       "title": "本日も1日お疲れ様でした",
       "src": "/voices/雑談など/本日も1日お疲れ様でした.m4a"
     },
     {
-      "id": "324",
+      "id": "541",
       "title": "笑い001",
       "src": "/voices/雑談など/笑い001.m4a"
     },
     {
-      "id": "325",
+      "id": "542",
       "title": "笑い002",
       "src": "/voices/雑談など/笑い002.m4a"
     },
     {
-      "id": "326",
+      "id": "543",
       "title": "笑い003",
       "src": "/voices/雑談など/笑い003.m4a"
     },
     {
-      "id": "327",
+      "id": "544",
       "title": "笑い004",
       "src": "/voices/雑談など/笑い004.m4a"
     },
     {
-      "id": "328",
+      "id": "545",
       "title": "笑い005",
       "src": "/voices/雑談など/笑い005.m4a"
     },
     {
-      "id": "329",
+      "id": "546",
       "title": "笑い006",
       "src": "/voices/雑談など/笑い006.m4a"
     },
     {
-      "id": "330",
+      "id": "547",
       "title": "笑い007",
       "src": "/voices/雑談など/笑い007.m4a"
     },
     {
-      "id": "331",
+      "id": "548",
       "title": "笑い008",
       "src": "/voices/雑談など/笑い008.m4a"
     },
     {
-      "id": "332",
+      "id": "549",
       "title": "笑い009",
       "src": "/voices/雑談など/笑い009.m4a"
     },
     {
-      "id": "333",
+      "id": "550",
       "title": "笑い010",
       "src": "/voices/雑談など/笑い010.m4a"
     },
     {
-      "id": "334",
+      "id": "551",
       "title": "笑い011",
       "src": "/voices/雑談など/笑い011.m4a"
     },
     {
-      "id": "335",
+      "id": "552",
       "title": "笑い012",
       "src": "/voices/雑談など/笑い012.m4a"
     },
     {
-      "id": "336",
+      "id": "553",
       "title": "笑い013",
       "src": "/voices/雑談など/笑い013.m4a"
     },
     {
-      "id": "337",
+      "id": "554",
       "title": "笑い014",
       "src": "/voices/雑談など/笑い014.m4a"
     },
     {
-      "id": "338",
+      "id": "555",
       "title": "笑い015",
       "src": "/voices/雑談など/笑い015.m4a"
     },
     {
-      "id": "339",
+      "id": "556",
       "title": "笑い016",
       "src": "/voices/雑談など/笑い016.m4a"
     },
     {
-      "id": "340",
+      "id": "557",
       "title": "笑い017",
       "src": "/voices/雑談など/笑い017.m4a"
     },
     {
-      "id": "341",
+      "id": "558",
       "title": "笑い018",
       "src": "/voices/雑談など/笑い018.m4a"
     },
     {
-      "id": "342",
+      "id": "559",
       "title": "笑い019",
       "src": "/voices/雑談など/笑い019.m4a"
     },
     {
-      "id": "343",
+      "id": "560",
       "title": "笑い020",
       "src": "/voices/雑談など/笑い020.m4a"
     },
     {
-      "id": "344",
+      "id": "561",
       "title": "笑い021",
       "src": "/voices/雑談など/笑い021.m4a"
     },
     {
-      "id": "345",
+      "id": "562",
       "title": "笑い022",
       "src": "/voices/雑談など/笑い022.m4a"
     },
     {
-      "id": "346",
+      "id": "563",
       "title": "笑い023",
       "src": "/voices/雑談など/笑い023.m4a"
     },
     {
-      "id": "347",
+      "id": "564",
       "title": "笑い024",
       "src": "/voices/雑談など/笑い024.m4a"
     },
     {
-      "id": "348",
+      "id": "565",
       "title": "笑い025",
       "src": "/voices/雑談など/笑い025.m4a"
     },
     {
-      "id": "349",
+      "id": "566",
       "title": "笑い026",
       "src": "/voices/雑談など/笑い026.m4a"
+    },
+    {
+      "id": "567",
+      "title": "笑い027",
+      "src": "/voices/雑談など/笑い027.m4a"
+    },
+    {
+      "id": "568",
+      "title": "笑い028",
+      "src": "/voices/雑談など/笑い028.m4a"
+    },
+    {
+      "id": "569",
+      "title": "笑い029",
+      "src": "/voices/雑談など/笑い029.m4a"
+    },
+    {
+      "id": "570",
+      "title": "笑い030",
+      "src": "/voices/雑談など/笑い030.m4a"
+    },
+    {
+      "id": "571",
+      "title": "笑い031",
+      "src": "/voices/雑談など/笑い031.m4a"
+    },
+    {
+      "id": "572",
+      "title": "笑い032",
+      "src": "/voices/雑談など/笑い032.m4a"
+    },
+    {
+      "id": "573",
+      "title": "笑い033",
+      "src": "/voices/雑談など/笑い033.m4a"
     }
   ]
 }

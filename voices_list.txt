@@ -22,11 +22,222 @@
 ./public/voices/Ancestors/黙れこの野郎.m4a
 ./public/voices/Ancestors/ﾍｯﾍｰｲﾍｯﾍｰｲ.m4a
 ./public/voices/Dawn of man/ダァノス001.m4a
+./public/voices/Duck Season/1ポイント.m4a
+./public/voices/Duck Season/2ポイント.m4a
+./public/voices/Duck Season/Duck Seasonです.m4a
+./public/voices/Duck Season/Great001.m4a
+./public/voices/Duck Season/Great002.m4a
+./public/voices/Duck Season/New Arrivalきた.m4a
+./public/voices/Duck Season/OKｲｪｲ.m4a
+./public/voices/Duck Season/Perfects.m4a
+./public/voices/Duck Season/Smooth_Criminal.m4a
+./public/voices/Duck Season/Tonight.m4a
+./public/voices/Duck Season/You_win.m4a
+./public/voices/Duck Season/dbaddaddadki.m4a
+./public/voices/Duck Season/あっお母さんいるやん.m4a
+./public/voices/Duck Season/ありがとうございます引退します.m4a
+./public/voices/Duck Season/あれ、お母さん.m4a
+./public/voices/Duck Season/いい天気だね.m4a
+./public/voices/Duck Season/いやそうはならんやろ.m4a
+./public/voices/Duck Season/うううううううううう.m4a
+./public/voices/Duck Season/うせやん.m4a
+./public/voices/Duck Season/うむ分かればいい.m4a
+./public/voices/Duck Season/うーわ.m4a
+./public/voices/Duck Season/うーわもう.m4a
+./public/voices/Duck Season/うーわ何これ.m4a
+./public/voices/Duck Season/うーわ虐殺されてるうちのクジラが.m4a
+./public/voices/Duck Season/ぇっぇっぇっぇっぇっ.m4a
+./public/voices/Duck Season/えぇ.m4a
+./public/voices/Duck Season/ええわかってへんやん何も.m4a
+./public/voices/Duck Season/えっ.m4a
+./public/voices/Duck Season/えっえっえっえっえっえっ.m4a
+./public/voices/Duck Season/えっえっなになに.m4a
+./public/voices/Duck Season/えっどうなる.m4a
+./public/voices/Duck Season/えっ何してる.m4a
+./public/voices/Duck Season/えなにその至近距離バイバイ.m4a
+./public/voices/Duck Season/えーえーえーえー.m4a
+./public/voices/Duck Season/おう久しぶりやなお前な.m4a
+./public/voices/Duck Season/おおいいね.m4a
+./public/voices/Duck Season/おかわり頂けただろうか.m4a
+./public/voices/Duck Season/おじさんを買いかぶりすぎちゃうか.m4a
+./public/voices/Duck Season/おっおっおっおっおっ.m4a
+./public/voices/Duck Season/おっきくなっちゃった.m4a
+./public/voices/Duck Season/おっらぁ.m4a
+./public/voices/Duck Season/お前かこの野郎うちのオカンやったのはお前か.m4a
+./public/voices/Duck Season/お前すごいなほんま.m4a
+./public/voices/Duck Season/お前というホームランボール場外にやってやらぁ.m4a
+./public/voices/Duck Season/お母さん三角形ばっか食べたらアカンわ四角形も食べ.m4a
+./public/voices/Duck Season/お祝いをしよ.m4a
+./public/voices/Duck Season/お見事100点満点です.m4a
+./public/voices/Duck Season/お金払ってもそんな状況になりたくないという状況にいたな.m4a
+./public/voices/Duck Season/お願いしまーす.m4a
+./public/voices/Duck Season/お！？.m4a
+./public/voices/Duck Season/かっこええ今の.m4a
+./public/voices/Duck Season/かまってちゃんかお前は.m4a
+./public/voices/Duck Season/くしゃみ.m4a
+./public/voices/Duck Season/くそこの野郎エイリアンめ.m4a
+./public/voices/Duck Season/くちばしが黄色で顔が青で胸が赤色なーんだ.m4a
+./public/voices/Duck Season/これでお前オカン助かるんちゃうか.m4a
+./public/voices/Duck Season/これで君も殺戮兵器さ.m4a
+./public/voices/Duck Season/これは閑静な住宅街で起こった物語である.m4a
+./public/voices/Duck Season/ごめん今寝ようとしてるからはよどっかいってごめんな.m4a
+./public/voices/Duck Season/ごめん意味わからん.m4a
+./public/voices/Duck Season/しかし彼はまだその考えが甘かったことを知る由もない.m4a
+./public/voices/Duck Season/そうそうたる面々や.m4a
+./public/voices/Duck Season/その時わいわいの頭に閃きの四文字がよぎる.m4a
+./public/voices/Duck Season/それをおじさんに聞くのはやぶさかではないけども.m4a
+./public/voices/Duck Season/そんなことしたらアカンわ.m4a
+./public/voices/Duck Season/そんなんゲームやねんし所詮こんなもん.m4a
+./public/voices/Duck Season/たこ焼き屋かお前の頭は.m4a
+./public/voices/Duck Season/だからもうええてお前はもう.m4a
+./public/voices/Duck Season/ちゃうわ001.m4a
+./public/voices/Duck Season/ちゃうわ002.m4a
+./public/voices/Duck Season/ちゃうわ003.m4a
+./public/voices/Duck Season/ちょオカンオカンそっちいったぞオカン.m4a
+./public/voices/Duck Season/とにかく俺にできることは倒すことだけや.m4a
+./public/voices/Duck Season/どういう神経してんねん.m4a
+./public/voices/Duck Season/なんか言おう、な.m4a
+./public/voices/Duck Season/なんか言われたな今.m4a
+./public/voices/Duck Season/なんだ一体おい.m4a
+./public/voices/Duck Season/なんてことすんねん.m4a
+./public/voices/Duck Season/なんでやねんなんでやねん.m4a
+./public/voices/Duck Season/なんも変わってへん.m4a
+./public/voices/Duck Season/なんやなんやなんや.m4a
+./public/voices/Duck Season/なんやねんこれ.m4a
+./public/voices/Duck Season/なんやねんちょこちょこ怖がらせるような真似しやがりくさって出てこいよ.m4a
+./public/voices/Duck Season/はぁまた始まった.m4a
+./public/voices/Duck Season/はい楽しかったですありがとうございました.m4a
+./public/voices/Duck Season/はっきり喋れ.m4a
+./public/voices/Duck Season/びっくり001.m4a
+./public/voices/Duck Season/びっくり002.m4a
+./public/voices/Duck Season/びっくり003.m4a
+./public/voices/Duck Season/びっくり004.m4a
+./public/voices/Duck Season/びっくり005.m4a
+./public/voices/Duck Season/びっくり006.m4a
+./public/voices/Duck Season/びっくり007.m4a
+./public/voices/Duck Season/びっくり008.m4a
+./public/voices/Duck Season/びっくり009.m4a
+./public/voices/Duck Season/びっくり010.m4a
+./public/voices/Duck Season/びっくり011.m4a
+./public/voices/Duck Season/びっくり012.m4a
+./public/voices/Duck Season/びっくり013.m4a
+./public/voices/Duck Season/びっくり014.m4a
+./public/voices/Duck Season/びっくり015.m4a
+./public/voices/Duck Season/びっくり016.m4a
+./public/voices/Duck Season/びっくり017.m4a
+./public/voices/Duck Season/びっくり018.m4a
+./public/voices/Duck Season/びっくり019.m4a
+./public/voices/Duck Season/びっくり020.m4a
+./public/voices/Duck Season/びっくり021.m4a
+./public/voices/Duck Season/びっくり022.m4a
+./public/voices/Duck Season/びっくり023.m4a
+./public/voices/Duck Season/ほぉ〜やってくれちゃうじゃない.m4a
+./public/voices/Duck Season/ほんまごめん.m4a
+./public/voices/Duck Season/みんな一緒に踊ろうよ僕と.m4a
+./public/voices/Duck Season/めっちゃドキドキしてる.m4a
+./public/voices/Duck Season/もうええてせやから.m4a
+./public/voices/Duck Season/もうええてそういうのされたら振り向けへんやんもう.m4a
+./public/voices/Duck Season/もーうええて.m4a
+./public/voices/Duck Season/やあ！おらどや.m4a
+./public/voices/Duck Season/やったねベイビー.m4a
+./public/voices/Duck Season/やったやったよｲｪｲ.m4a
+./public/voices/Duck Season/やっと期待感が持てる.m4a
+./public/voices/Duck Season/やっぱり.m4a
+./public/voices/Duck Season/やりゃあいいんやろ.m4a
+./public/voices/Duck Season/やんのかてめぇよくここまでついてきたな.m4a
+./public/voices/Duck Season/よくやったな.m4a
+./public/voices/Duck Season/よしかかってきな.m4a
+./public/voices/Duck Season/よしじゃあ後は頼んだ.m4a
+./public/voices/Duck Season/よっしゃあ.m4a
+./public/voices/Duck Season/よーしお前との勝負よ.m4a
+./public/voices/Duck Season/よーしかかってこいよ.m4a
+./public/voices/Duck Season/ん！？なんや.m4a
+./public/voices/Duck Season/アカンうーわ.m4a
+./public/voices/Duck Season/アカンもう全然わからへん.m4a
+./public/voices/Duck Season/アンコール.m4a
+./public/voices/Duck Season/オカンえっオカン.m4a
+./public/voices/Duck Season/オカンや.m4a
+./public/voices/Duck Season/オカン助かる？うちのオカン喘息持ちやけど.m4a
+./public/voices/Duck Season/オカン待ってろよオカン絶対助けてやるからな.m4a
+./public/voices/Duck Season/ケツえぐない.m4a
+./public/voices/Duck Season/シュゥゥゥゥゥゥ.m4a
+./public/voices/Duck Season/スネイプ先生001.m4a
+./public/voices/Duck Season/スネイプ先生002.m4a
+./public/voices/Duck Season/ダンス001.m4a
+./public/voices/Duck Season/ダンス002.m4a
+./public/voices/Duck Season/トリプルトラ001.m4a
+./public/voices/Duck Season/トリプルトラ002.m4a
+./public/voices/Duck Season/ニュース001.m4a
+./public/voices/Duck Season/ニュース002.m4a
+./public/voices/Duck Season/ビデオ001.m4a
+./public/voices/Duck Season/ビデオ002.m4a
+./public/voices/Duck Season/ビデオ003.m4a
+./public/voices/Duck Season/マリオ.m4a
+./public/voices/Duck Season/下ネタ三角形さ.m4a
+./public/voices/Duck Season/人生幸せやろな.m4a
+./public/voices/Duck Season/今すぐ来てほしいんすよ.m4a
+./public/voices/Duck Season/何すか何すかえっ.m4a
+./public/voices/Duck Season/何の謎も解決できへんかった.m4a
+./public/voices/Duck Season/何やねん急に.m4a
+./public/voices/Duck Season/何事にも全力全霊かお前は.m4a
+./public/voices/Duck Season/俺オリンピック出れるんちゃう.m4a
+./public/voices/Duck Season/僕たちが明日の未来をつくるんだから.m4a
+./public/voices/Duck Season/僕と人生一緒に歩んでください.m4a
+./public/voices/Duck Season/全員始末したらぁ.m4a
+./public/voices/Duck Season/全然受け身とれへんねんこっち.m4a
+./public/voices/Duck Season/劇001.m4a
+./public/voices/Duck Season/劇002.m4a
+./public/voices/Duck Season/劇003.m4a
+./public/voices/Duck Season/勘弁してほしいほんま.m4a
+./public/voices/Duck Season/右目腫れすぎてマタドガスみたいになってたらどうしょう.m4a
+./public/voices/Duck Season/太陽に吠えろ.m4a
+./public/voices/Duck Season/子供部屋に入ってくるオカンみたいに問答無用で入ってきよるから.m4a
+./public/voices/Duck Season/守るべきものがある戦いはおじさんちっと強いぞ.m4a
+./public/voices/Duck Season/小さめのマンホールか.m4a
+./public/voices/Duck Season/弟者.m4a
+./public/voices/Duck Season/後頭部がエイリアンみたいな突起してる.m4a
+./public/voices/Duck Season/怖いとにかく.m4a
+./public/voices/Duck Season/怖っ.m4a
+./public/voices/Duck Season/思ってるよりも超大作やった.m4a
+./public/voices/Duck Season/思ってるよりバイオレンスやった.m4a
+./public/voices/Duck Season/恐怖の始まりなのである.m4a
+./public/voices/Duck Season/戻ってしもうた.m4a
+./public/voices/Duck Season/撃ち殺したれ.m4a
+./public/voices/Duck Season/森のくまさん.m4a
+./public/voices/Duck Season/楽しいこれ.m4a
+./public/voices/Duck Season/歯茎の幅の方が歯の幅よりも長いもの.m4a
+./public/voices/Duck Season/殴られたいんかお前は.m4a
+./public/voices/Duck Season/海外旅行でも行くんか.m4a
+./public/voices/Duck Season/猟奇的やねｳﾜｧｰ猟奇的や.m4a
+./public/voices/Duck Season/真相は藪の中やけど.m4a
+./public/voices/Duck Season/納得がいかねえ.m4a
+./public/voices/Duck Season/終わんねえんだけど.m4a
+./public/voices/Duck Season/結婚してくださいお願いします.m4a
+./public/voices/Duck Season/絶対返品しよ.m4a
+./public/voices/Duck Season/美術的やね.m4a
+./public/voices/Duck Season/考えすぎかなさすがに.m4a
+./public/voices/Duck Season/見れへんのかーい.m4a
+./public/voices/Duck Season/言ってること矛盾してるね.m4a
+./public/voices/Duck Season/難儀や.m4a
 ./public/voices/Duck Season/ｲｪﾛｩﾄﾞｯﾁｯﾐｯﾁﾈﾅﾛﾊﾟｧﾝﾃﾞｪｽ001.m4a
 ./public/voices/Duck Season/ｲｪﾛｩﾄﾞｯﾁｯﾐｯﾁﾈﾅﾛﾊﾟｧﾝﾃﾞｪｽ002.m4a
 ./public/voices/Duck Season/ｲｪﾛｩﾄﾞｯﾁｯﾐｯﾁﾈﾅﾛﾊﾟｧﾝﾃﾞｪｽ003.m4a
 ./public/voices/Duck Season/ｲｪﾛｩﾄﾞｯﾁｯﾐｯﾁﾈﾅﾛﾊﾟｧﾝﾃﾞｪｽ004.m4a
+./public/voices/Duck Season/ｲｪﾛｩﾄﾞｯﾁｯﾐｯﾁﾈﾅﾛﾊﾟｧﾝﾃﾞｪｽ005.m4a
+./public/voices/Duck Season/ｲｪﾛｩﾄﾞｯﾁｯﾐｯﾁﾈﾅﾛﾊﾟｧﾝﾃﾞｪｽ006.m4a
+./public/voices/Duck Season/ｲｪﾛｩﾄﾞｯﾁｯﾐｯﾁﾈﾅﾛﾊﾟｧﾝﾃﾞｪｽ007.m4a
+./public/voices/Duck Season/ｳﾜｰものすご眼球くりっくりやね.m4a
+./public/voices/Duck Season/ﾅﾎｰ.m4a
 ./public/voices/Duck Season/ﾅﾛﾊﾟｧﾝﾃﾞｪｽ001.m4a
+./public/voices/Duck Season/ﾅﾛﾊﾟｧﾝﾃﾞｪｽ002.m4a
+./public/voices/Duck Season/ﾅﾛﾊﾟｧﾝﾃﾞｪｽ003.m4a
+./public/voices/Duck Season/ﾅﾛﾊﾟｧﾝﾃﾞｪｽ004.m4a
+./public/voices/Duck Season/ﾅﾛﾊﾟｧﾝﾃﾞｪｽ005.m4a
+./public/voices/Duck Season/ﾅﾛﾊﾟｧﾝﾃﾞｪｽ006.m4a
+./public/voices/Duck Season/ﾅﾛﾊﾟｧﾝﾃﾞｪｽ007.m4a
+./public/voices/Duck Season/ﾅﾛﾊﾟｧﾝﾃﾞｪｽ008.m4a
+./public/voices/Duck Season/ﾊﾑﾀﾛﾅﾉﾀﾞ.m4a
+./public/voices/Duck Season/ﾍﾞﾀﾍﾞﾀｱﾜﾄﾓﾌﾓﾌｱﾜｧ.m4a
 ./public/voices/Handy/OK死ね.m4a
 ./public/voices/Handy/♪おててのおじさん001.m4a
 ./public/voices/Handy/♪おててのおじさん002.m4a
@@ -295,23 +506,29 @@
 ./public/voices/挨拶/すごくなくても.m4a
 ./public/voices/挨拶/たどたどしい.m4a
 ./public/voices/挨拶/アメダス.m4a
+./public/voices/挨拶/ジャムおじさん.m4a
 ./public/voices/挨拶/スピーカーフォン.m4a
 ./public/voices/挨拶/フランス人とのハーフ.m4a
+./public/voices/挨拶/マッキー.m4a
+./public/voices/挨拶/ミステイクその先.m4a
 ./public/voices/挨拶/ミニチュア.m4a
+./public/voices/挨拶/趣味の悪い輩.m4a
+./public/voices/歌/♪A_Hole_New_World.m4a
 ./public/voices/歌/♪ハイジ.m4a
 ./public/voices/歌/♪ヤッターマン.m4a
 ./public/voices/歌/♪名探偵ソーナン001.m4a
 ./public/voices/歌/♪名探偵ソーナン002.m4a
+./public/voices/歌/♪妖怪体操第一.m4a
 ./public/voices/歌/♪恋のドレミ.m4a
 ./public/voices/歌/♪恋人よ.m4a
 ./public/voices/歌/♪授与の儀.m4a
+./public/voices/歌/♪桜坂.m4a
 ./public/voices/歌/♪牛は白黒.m4a
 ./public/voices/歌/♪親孝行国歌斉唱.m4a
 ./public/voices/歌/♪誰でもいい.m4a
 ./public/voices/歌/♪雨が降る時も001.m4a
 ./public/voices/歌/♪雨が降る時も002.m4a
 ./public/voices/歌/バラードバージョンマリオ.m4a
-./public/voices/雑談など/おかわり頂けただろうか.m4a
 ./public/voices/雑談など/この野郎001.m4a
 ./public/voices/雑談など/この野郎002.m4a
 ./public/voices/雑談など/しんどい.m4a
@@ -348,3 +565,10 @@
 ./public/voices/雑談など/笑い024.m4a
 ./public/voices/雑談など/笑い025.m4a
 ./public/voices/雑談など/笑い026.m4a
+./public/voices/雑談など/笑い027.m4a
+./public/voices/雑談など/笑い028.m4a
+./public/voices/雑談など/笑い029.m4a
+./public/voices/雑談など/笑い030.m4a
+./public/voices/雑談など/笑い031.m4a
+./public/voices/雑談など/笑い032.m4a
+./public/voices/雑談など/笑い033.m4a
